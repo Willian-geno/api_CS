@@ -10,7 +10,7 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   users: 600,
-  produtos: 444
+  produtos: 444,
 });
 
 app.use(cors());
@@ -20,4 +20,3 @@ app.use(router);
 app.listen(port);
 
 console.log("Server is running on port:", port);
-
