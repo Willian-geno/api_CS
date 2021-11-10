@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "willian@email.com",
+      "password": "$2a$10$FpgmCm7rvDqrAtXmJO3yv.hV0w6Dck.PEfXM8/bsUtJQHbRXUtst6",
+      "name": "willian",
+      "id": 1
+    }
+  ],
+  "produtos": []
+}
