@@ -29,7 +29,7 @@
       "fibra alimentar": ["5.50 g", "22 %"],
       sódio: ["165.00 mg", "7 %"],
     },
-    category: "carnes vermelhas",
+    category: "carnes vermelhas"
   },
   {
     id: 2,
