@@ -1,9 +1,15 @@
 {
   "users": [
     {
-      "email": "willian@email.com",
-      "password": "$2a$10$FpgmCm7rvDqrAtXmJO3yv.hV0w6Dck.PEfXM8/bsUtJQHbRXUtst6",
-      "name": "willian",
+      "email": "gabriel@azevedo.com",
+      "password": "$2a$10$/OlLcybZz/W.jZs8gPTaKelsoFQ1O5x0LHxfZDnViyCXE.E1qHd7.",
+      "name": "Gabriel Azevedo",
+      "phone": "55 978456234",
+      "cep": "95020-320",
+      "address": "Rua Avenida",
+      "area": "Centro",
+      "number": "1950",
+      "complement": "Apartamento 4",
       "id": 1
     }
   ],
@@ -14,18 +20,44 @@
       "title": "Bolinha de abóbora e carne com chia",
       "weight": "100g",
       "price": "R$ 8,90",
-      "tags": ["contém lactose"],
+      "tags": [
+        "contém lactose"
+      ],
       "description": "Uma ótima opção de snack para o meio da manhã ou da tarde, as bolinhas de abóbora e carne com chia vão matar a sua fome e te dar energia até a próxima refeição.\nTambém podem ser uma boa pedida para incrementar um prato, já que o crocante da chia e o sabor do parmesão trazem um toque todo especial à essas bolinhas tão saborosas!.",
       "ingredient": "abóbora japonesa orgânica, carne bovina, cebola orgânica, chia, queijo parmesão, farinha de coco, azeite extra virgem, páprica doce, sal, pimenta do reino.",
       "valueNutri": {
-        "valor energético": ["184.00 kcal", "10 %"],
-        "carboidratos": ["11.00 g", "4 %"],
-        "proteínas": ["16.00 g", "22 %"],
-        "gorduras totais": ["8.20 g", "15 %"],
-        "gorduras saturada": ["2.80 g", "13 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["5.50 g", "22 %"],
-        "sódio": ["165.00 mg", "7 %"]
+        "valor energético": [
+          "184.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "11.00 g",
+          "4 %"
+        ],
+        "proteínas": [
+          "16.00 g",
+          "22 %"
+        ],
+        "gorduras totais": [
+          "8.20 g",
+          "15 %"
+        ],
+        "gorduras saturada": [
+          "2.80 g",
+          "13 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "5.50 g",
+          "22 %"
+        ],
+        "sódio": [
+          "165.00 mg",
+          "7 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -39,14 +71,38 @@
       "description": "Assim que colocar essa porção no prato, você vai sentir cheiro de 'me dei bem'. E vai ter certeza disso quando ver que tem muita carne louca no pedaço - é uma mega porção! Mas a carne não vem sozinha: muito macia e bem preparada, ela chega acompanhada de temperos naturais, inclusive orgânicos, que dão um sabor super intenso a cada mordida.\nExperimente com batata rústica, purê ou da forma mais clássica: como o recheio de um belo sanduichão.",
       "ingredient": "carne bovina, cebola orgânica, extrato de tomate, cenoura, alho-poró orgânico, pimentão verde orgânico, azeite extra virgem, pimentão amarelo orgânico, salsinha orgânica, alho, sal.",
       "valueNutri": {
-        "valor energético": ["182.00 kcal", "10 %"],
-        "carboidratos": ["6.30 g", "3 %"],
-        "proteínas": ["22.00 g", "30 %"],
-        "gorduras totais": ["7.70 g", "14 %"],
-        "gorduras saturada": ["2.80 g", "13 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["1.50 g", "6 %"],
-        "sódio": ["555.00 mg", "24 %"]
+        "valor energético": [
+          "182.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "6.30 g",
+          "3 %"
+        ],
+        "proteínas": [
+          "22.00 g",
+          "30 %"
+        ],
+        "gorduras totais": [
+          "7.70 g",
+          "14 %"
+        ],
+        "gorduras saturada": [
+          "2.80 g",
+          "13 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "1.50 g",
+          "6 %"
+        ],
+        "sódio": [
+          "555.00 mg",
+          "24 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -60,14 +116,38 @@
       "description": "Quer prato mais caseiro, com gostinho de comida de casa, daqueles feitas pela mamãe do que carne moída com cenoura e vagem? Usamos patinho moído, que é uma carne de primeira, ideal para fazer carne moída refogadinha.\nÉ bem macia e tem pouca gordura, mas é bem saborosa e molhadinha.\nEsta clássica comida caseira é uma opção saborosa e muito nutritiva. Fica ótima com batatinhas, arroz, feijão, algo assim, com gostinho de casa.",
       "ingredient": "carne bovina, cenoura, cebola orgânica, vagem, azeite extra virgem, alho, sal, pimenta-do-reino.",
       "valueNutri": {
-        "valor energético": ["143.00 kcal", "8 %"],
-        "carboidratos": ["3.40 g", "2 %"],
-        "proteínas": ["18.00 g", "24 %"],
-        "gorduras totais": ["6.20 g", "12 %"],
-        "gorduras saturada": ["2.10 g", "10 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["1.10 g", "5 %"],
-        "sódio": ["269.00 mg", "12 %"]
+        "valor energético": [
+          "143.00 kcal",
+          "8 %"
+        ],
+        "carboidratos": [
+          "3.40 g",
+          "2 %"
+        ],
+        "proteínas": [
+          "18.00 g",
+          "24 %"
+        ],
+        "gorduras totais": [
+          "6.20 g",
+          "12 %"
+        ],
+        "gorduras saturada": [
+          "2.10 g",
+          "10 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "1.10 g",
+          "5 %"
+        ],
+        "sódio": [
+          "269.00 mg",
+          "12 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -81,14 +161,38 @@
       "description": "O aroma desse prato te leva direto para um churrasco com a galera na beira da piscina.\nE se o cheiro já é bom, o sabor é um absurdo, resultado de um preparo cuidadoso e da companhia do chimichurri.\nNossa versão desse molho (um clássico meio uruguaio, meio argentino) leva ervas frescas, e deixa o filé mignon, que é pouco gorduroso e super macio, ainda mais suculento. Experimente combinar com purê de batatas ou com o clássico arroz com feijão e aprecie cada pedacinho.",
       "ingredient": "filé mignon, azeite extra virgem, salsinha orgânica, sal, vinagre de vinho tinto, alho, pimenta do reino, páprica defumada.",
       "valueNutri": {
-        "valor energético": ["245.00 kcal", "13 %"],
-        "carboidratos": ["0.30 g", "1 %"],
-        "proteínas": ["33.00 g", "44 %"],
-        "gorduras totais": ["13.00 g", "24 %"],
-        "gorduras saturada": ["5.00 g", "23 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.10 g", "1 %"],
-        "sódio": ["418.00 mg", "18 %"]
+        "valor energético": [
+          "245.00 kcal",
+          "13 %"
+        ],
+        "carboidratos": [
+          "0.30 g",
+          "1 %"
+        ],
+        "proteínas": [
+          "33.00 g",
+          "44 %"
+        ],
+        "gorduras totais": [
+          "13.00 g",
+          "24 %"
+        ],
+        "gorduras saturada": [
+          "5.00 g",
+          "23 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.10 g",
+          "1 %"
+        ],
+        "sódio": [
+          "418.00 mg",
+          "18 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -102,14 +206,38 @@
       "description": "Um clássico da culinária mundial que tem apenas o que um hamburguer precisa: sal e carne de qualidade.\nNosso hamburguer é feito com fraldinha de primeira temperada com sal rosa.\nEsse corte da carne fica ótimo no hambúrguer, porque tem uma certa quantidade de gordura, ideal para deixar bem macio e saboroso. Assim, não precisamos acrescentar mais nada! É rico em proteína, zero carboidratos. Fica perfeito para acompanhar um arroz, risoto ou montar um X-salada de respeito!",
       "ingredient": "carne moída (fraldinha), sal.",
       "valueNutri": {
-        "valor energético": ["386.00 kcal", "20 %"],
-        "carboidratos": ["0.00 g", "0 %"],
-        "proteínas": ["32.00 g", "43 %"],
-        "gorduras totais": ["29.00 g", "53 %"],
-        "gorduras saturada": ["13.00 g", "60 %"],
-        "gorduras trans": ["0.80 g", "** %"],
-        "fibra alimentar": ["0.00 g", "0 %"],
-        "sódio": ["538.00 mg", "23 %"]
+        "valor energético": [
+          "386.00 kcal",
+          "20 %"
+        ],
+        "carboidratos": [
+          "0.00 g",
+          "0 %"
+        ],
+        "proteínas": [
+          "32.00 g",
+          "43 %"
+        ],
+        "gorduras totais": [
+          "29.00 g",
+          "53 %"
+        ],
+        "gorduras saturada": [
+          "13.00 g",
+          "60 %"
+        ],
+        "gorduras trans": [
+          "0.80 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.00 g",
+          "0 %"
+        ],
+        "sódio": [
+          "538.00 mg",
+          "23 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -119,18 +247,45 @@
       "title": "Iscas de filé mignon ao molho mostarda",
       "weight": "110g",
       "price": "R$ 21,90",
-      "tags": ["contém glúten", "contém lactose"],
+      "tags": [
+        "contém glúten",
+        "contém lactose"
+      ],
       "description": "Um clássico da cozinha francesa direto para sua casa.\nFilé mignon macio e saboroso com molho de mostarda amarela e creme de leite sem lactose.\nPrático e versátil, ele combina com todos os tipos de acompanhamentos: arroz, legumes refogados e até uma boa massa. Ideal para uma refeição simples, porém requintada.",
       "ingredient": "filé mignon, mostarda amarela, creme de leite sem lactose, azeite extra virgem, farinha de trigo, leite em pó integral, sal, páprica defumada, pimenta-do-reino.",
       "valueNutri": {
-        "valor energético": ["172.00 kcal", "9 %"],
-        "carboidratos": ["3.10 g", "2 %"],
-        "proteínas": ["20.00 g", "27 %"],
-        "gorduras totais": ["8.80 g", "17 %"],
-        "gorduras saturada": ["3.90 g", "18 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.30 g", "2 %"],
-        "sódio": ["268.00 mg", "12 %"]
+        "valor energético": [
+          "172.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "3.10 g",
+          "2 %"
+        ],
+        "proteínas": [
+          "20.00 g",
+          "27 %"
+        ],
+        "gorduras totais": [
+          "8.80 g",
+          "17 %"
+        ],
+        "gorduras saturada": [
+          "3.90 g",
+          "18 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.30 g",
+          "2 %"
+        ],
+        "sódio": [
+          "268.00 mg",
+          "12 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -140,18 +295,45 @@
       "title": "Picadinho oriental",
       "weight": "140g",
       "price": "R$ 17,90",
-      "tags": ["contém glúten", "contém nuts"],
+      "tags": [
+        "contém glúten",
+        "contém nuts"
+      ],
       "description": "Inspirado na culinária oriental, este picadinho é feito com carne bovina, legumes refogados no shoyu e um toque especial de gengibre e páprica defumada.\nUm prato delicioso e cheio de estilo, perfeito pra um almoço ou um jantar com uma proteína especial.",
       "ingredient": "carne bovina, cebola orgânica, cenoura, cebola roxa orgânica, óleo de gergelim, cebolinha orgânica, pimentão amarelo orgânico, pimentão vermelho, açúcar mascavo, vinagre de arroz, amendoim, molho shoyu, farinha de trigo enriquecida com ferro e ácido fólico, gengibre orgânico, fécula de batata, sal, alho em pó, páprica defumada.",
       "valueNutri": {
-        "valor energético": ["233.00 kcal", "12 %"],
-        "carboidratos": ["13.00 g", "5 %"],
-        "proteínas": ["16.00 g", "22 %"],
-        "gorduras totais": ["13.00 g", "24 %"],
-        "gorduras saturada": ["2.90 g", "14 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["1.60 g", "7 %"],
-        "sódio": ["235.00 mg", "10 %"]
+        "valor energético": [
+          "233.00 kcal",
+          "12 %"
+        ],
+        "carboidratos": [
+          "13.00 g",
+          "5 %"
+        ],
+        "proteínas": [
+          "16.00 g",
+          "22 %"
+        ],
+        "gorduras totais": [
+          "13.00 g",
+          "24 %"
+        ],
+        "gorduras saturada": [
+          "2.90 g",
+          "14 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "1.60 g",
+          "7 %"
+        ],
+        "sódio": [
+          "235.00 mg",
+          "10 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -161,18 +343,45 @@
       "title": "Quibe assado com castanha do Pará",
       "weight": "100g",
       "price": "R$ 11,50",
-      "tags": ["contém glúten", "contém nuts"],
+      "tags": [
+        "contém glúten",
+        "contém nuts"
+      ],
       "description": "Sempre pensando em inovar, a Liv Up trouxe uma receita de quibe baseada no prato típico do Oriente Médio, mas com alguns detalhes para deixar do jeitinho que a gente gosta.\nEste quibe é assado e super saboroso por conta dos temperos naturais que colocamos.\nTem castanha do Pará, que dá o toque especial e bem brasileiro, fornecendo muitos nutrientes. É ótimo para comer no lanche, ou quem sabe no almoço e jantar.",
       "ingredient": "carne bovina, trigo para quibe, cebola orgânica, limão tahiti orgânico, castanha do pará , sal, azeite extra virgem, hortelã orgânica, pimenta-do-reino.",
       "valueNutri": {
-        "valor energético": ["201.00 kcal", "11 %"],
-        "carboidratos": ["16.00 g", "6 %"],
-        "proteínas": ["16.00 g", "22 %"],
-        "gorduras totais": ["7.80 g", "15 %"],
-        "gorduras saturada": ["2.10 g", "10 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["2.10 g", "9 %"],
-        "sódio": ["183.00 mg", "8 %"]
+        "valor energético": [
+          "201.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "16.00 g",
+          "6 %"
+        ],
+        "proteínas": [
+          "16.00 g",
+          "22 %"
+        ],
+        "gorduras totais": [
+          "7.80 g",
+          "15 %"
+        ],
+        "gorduras saturada": [
+          "2.10 g",
+          "10 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "2.10 g",
+          "9 %"
+        ],
+        "sódio": [
+          "183.00 mg",
+          "8 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -186,14 +395,38 @@
       "description": "A nossa versão desse molho tradicional, perfeito para acompanhar diversos tipos de massa.\nUma combinação de um delicioso molho de tomate orgânico com nossa linguiça artesanal, tudo feito com ingredientes naturais para ter um resultado bem caprichado nos temperos, especiarias e, claro, no sabor.",
       "ingredient": "tomate orgânico, pernil suíno, paleta suína, cebola orgânica, extrato de tomate, cenoura, azeite extra virgem, salsa em flocos, alho, sal, páprica picante, alho em pó, manjericão orgânico, pimenta calabresa, erva doce, páprica defumada.",
       "valueNutri": {
-        "valor energético": ["176.00 kcal", "9 %"],
-        "carboidratos": ["6.70 g", "3 %"],
-        "proteínas": ["15.00 g", "20 %"],
-        "gorduras totais": ["9.80 g", "18 %"],
-        "gorduras saturada": ["3.00 g", "14 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["1.30 g", "6 %"],
-        "sódio": ["320.00 mg", "14 %"]
+        "valor energético": [
+          "176.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "6.70 g",
+          "3 %"
+        ],
+        "proteínas": [
+          "15.00 g",
+          "20 %"
+        ],
+        "gorduras totais": [
+          "9.80 g",
+          "18 %"
+        ],
+        "gorduras saturada": [
+          "3.00 g",
+          "14 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "1.30 g",
+          "6 %"
+        ],
+        "sódio": [
+          "320.00 mg",
+          "14 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -207,14 +440,38 @@
       "description": "*Aquecimento somente no micro-ondas.\n* Tempero brasileiro especial, para transformar a receita original russa em algo caseiro como a gente gosta.\nSimplesmente delicioso e perfeito para acompanhar com arroz e batata, em porção caprichada de 420g.",
       "ingredient": "carne bovina, creme de leite sem lactose, cebola orgânica, cogumelo paris, extrato de tomate, ketchup, mostarda amarela, azeite extra virgem, farinha de trigo enriquecida com ferro e ácido fólico, sal, alho.",
       "valueNutri": {
-        "valor energético": ["163.00 kcal", "9 %"],
-        "carboidratos": ["6.00 g", "2 %"],
-        "proteínas": ["14.00 g", "19 %"],
-        "gorduras totais": ["9.20 g", "17 %"],
-        "gorduras saturada": ["4.50 g", "21 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.90 g", "4 %"],
-        "sódio": ["314.00 mg", "14 %"]
+        "valor energético": [
+          "163.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "6.00 g",
+          "2 %"
+        ],
+        "proteínas": [
+          "14.00 g",
+          "19 %"
+        ],
+        "gorduras totais": [
+          "9.20 g",
+          "17 %"
+        ],
+        "gorduras saturada": [
+          "4.50 g",
+          "21 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.90 g",
+          "4 %"
+        ],
+        "sódio": [
+          "314.00 mg",
+          "14 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -224,18 +481,45 @@
       "title": "Frango com amendoim e Lemon pepper - 4 porções",
       "weight": "440g",
       "price": "R$ 45,00",
-      "tags": ["contém nuts", "contém ovos"],
+      "tags": [
+        "contém nuts",
+        "contém ovos"
+      ],
       "description": "Uma mistura que surpreende quem ainda não conhece, e que se tornou campeã de preferência na Liv Up.\nO sabor do frango, a crocância do amendoim e a picância da lemon pepper dão a cada mordida uma experiência à parte, pra degustar e sentir cada detalhe dessa receita especial e super bem produzida pelos chefs da Liv Up.\nVale cada pedaço ou, neste caso, cada porção pra compartilhar. Nesta versão, o frango com amendoim e lemon pepper serve até 4 porções.",
       "ingredient": "peito de frango sem antibiótico, aveia em flocos, semente de girassol, amendoim, clara de ovo, limão tahiti orgânico, azeite extra virgem, lemon pepper, sal.",
       "valueNutri": {
-        "valor energético": ["271.00 kcal", "14 %"],
-        "carboidratos": ["12.00 g", "4 %"],
-        "proteínas": ["25.00 g", "34 %"],
-        "gorduras totais": ["13.00 g", "24 %"],
-        "gorduras saturada": ["2.50 g", "12 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["2.10 g", "9 %"],
-        "sódio": ["384.00 mg", "16 %"]
+        "valor energético": [
+          "271.00 kcal",
+          "14 %"
+        ],
+        "carboidratos": [
+          "12.00 g",
+          "4 %"
+        ],
+        "proteínas": [
+          "25.00 g",
+          "34 %"
+        ],
+        "gorduras totais": [
+          "13.00 g",
+          "24 %"
+        ],
+        "gorduras saturada": [
+          "2.50 g",
+          "12 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "2.10 g",
+          "9 %"
+        ],
+        "sódio": [
+          "384.00 mg",
+          "16 %"
+        ]
       },
       "category": "frangos"
     },
@@ -245,18 +529,44 @@
       "title": "Frango com crosta de castanha de caju",
       "weight": "110g",
       "price": "R$ 14,50",
-      "tags": ["contém nuts"],
+      "tags": [
+        "contém nuts"
+      ],
       "description": "'Uma versão nada sem graça do peito de frango! Criamos uma deliciosa crosta, para 'empanar' com a castanha de caju moída.\nEssa castanha super brasileira traz mais bossa, mais graça e sabor para essa receita.\nÉ um prato bem nutritivo, super gostoso e diferente. Ideal para fugir do filé de frango de sempre, que pode enjoar. Acompanhado de legumes, qualquer tipo de arroz, feijão ou lentilha vai muito bem. É sucesso na certa!'",
       "ingredient": "peito de frango sem antibiótico, castanha de cajú, azeite extra virgem, sal, pimenta-do-reino.",
       "valueNutri": {
-        "valor energético": ["293.00 kcal", "15 %"],
-        "carboidratos": ["7.30 g", "3 %"],
-        "proteínas": ["30.00 g", "40 %"],
-        "gorduras totais": ["16.00 g", "30 %"],
-        "gorduras saturada": ["3.20 g", "15 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["4.50 g", "18 %"],
-        "sódio": ["249.00 mg", "11 %"]
+        "valor energético": [
+          "293.00 kcal",
+          "15 %"
+        ],
+        "carboidratos": [
+          "7.30 g",
+          "3 %"
+        ],
+        "proteínas": [
+          "30.00 g",
+          "40 %"
+        ],
+        "gorduras totais": [
+          "16.00 g",
+          "30 %"
+        ],
+        "gorduras saturada": [
+          "3.20 g",
+          "15 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "4.50 g",
+          "18 %"
+        ],
+        "sódio": [
+          "249.00 mg",
+          "11 %"
+        ]
       },
       "category": "frangos"
     },
@@ -270,14 +580,38 @@
       "description": "A carne é macia e muito bem temperada pra você colocar no cardápio sempre.\nGraças à salsinha, à hortelã e ao limão siciliano, a receita fica bem fresca e leve, ideal para qualquer tempo, até para aqueles dias em que o calor não dá trégua.",
       "ingredient": "peito de frango sem antibiótico, azeite extra virgem, limão siciliano, alho, vinagre balsâmico orgânico , salsinha orgânica, sal, hortelã orgânica, páprica picante, orégano, raspas de limão siciliano.",
       "valueNutri": {
-        "valor energético": ["205.00 kcal", "11 %"],
-        "carboidratos": ["1.50 g", "1 %"],
-        "proteínas": ["25.00 g", "34 %"],
-        "gorduras totais": ["11.00 g", "20 %"],
-        "gorduras saturada": ["2.50 g", "12 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.10 g", "1 %"],
-        "sódio": ["341.00 mg", "15 %"]
+        "valor energético": [
+          "205.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "1.50 g",
+          "1 %"
+        ],
+        "proteínas": [
+          "25.00 g",
+          "34 %"
+        ],
+        "gorduras totais": [
+          "11.00 g",
+          "20 %"
+        ],
+        "gorduras saturada": [
+          "2.50 g",
+          "12 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.10 g",
+          "1 %"
+        ],
+        "sódio": [
+          "341.00 mg",
+          "15 %"
+        ]
       },
       "category": "frangos"
     },
@@ -291,14 +625,38 @@
       "description": "*Aquecimento somente no micro-ondas.\n* Carne de frango macia em porção de 350g e muito bem temperada, graças à salsinha, hortelã e limão siciliano.\nAquele sabor de comida de casa da vovó, deliciosa e em quantidade caprichada para você ter a melhor refeição do seu dia.",
       "ingredient": "peito de frango sem antibiótico, azeite extra virgem, limão siciliano, salsinha orgânica, sal, páprica doce, cebola em pó, hortelã orgânica, páprica defumada, pimenta-do-reino, alho em pó, raspas de limão siciliano.",
       "valueNutri": {
-        "valor energético": ["295.00 kcal", "15 %"],
-        "carboidratos": ["1.60 g", "1 %"],
-        "proteínas": ["40.00 g", "54 %"],
-        "gorduras totais": ["14.00 g", "26 %"],
-        "gorduras saturada": ["3.40 g", "16 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.50 g", "2 %"],
-        "sódio": ["418.00 mg", "18 %"]
+        "valor energético": [
+          "295.00 kcal",
+          "15 %"
+        ],
+        "carboidratos": [
+          "1.60 g",
+          "1 %"
+        ],
+        "proteínas": [
+          "40.00 g",
+          "54 %"
+        ],
+        "gorduras totais": [
+          "14.00 g",
+          "26 %"
+        ],
+        "gorduras saturada": [
+          "3.40 g",
+          "16 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.50 g",
+          "2 %"
+        ],
+        "sódio": [
+          "418.00 mg",
+          "18 %"
+        ]
       },
       "category": "frangos"
     },
@@ -312,14 +670,38 @@
       "description": "Simples, saudável e delicioso, nosso frango desfiado com milho é bem molhadinho e tem um sabor super caseiro.\nIsso porque é preparado com molho de tomate natural, que fazemos aqui, e temperinhos frescos.\nTem aquele gostinho de comida de casa, sabe? Fica uma delícia em qualquer prato acompanhado de purê, arroz, feijão ou o que sua criatividade permitir. Também é ótimo como recheio de sanduíches, panquecas. Enfim, é uma proteína super versátil, ótima para você ter no seu freezer.",
       "ingredient": "peito de frango sem antibiótico, tomate orgânico, milho, cebola orgânica, alho, azeite extra virgem, salsinha orgânica, sal.",
       "valueNutri": {
-        "valor energético": ["114.00 kcal", "6 %"],
-        "carboidratos": ["5.10 g", "2 %"],
-        "proteínas": ["16.00 g", "22 %"],
-        "gorduras totais": ["3.30 g", "6 %"],
-        "gorduras saturada": ["1.00 g", "5 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["1.30 g", "6 %"],
-        "sódio": ["206.00 mg", "9 %"]
+        "valor energético": [
+          "114.00 kcal",
+          "6 %"
+        ],
+        "carboidratos": [
+          "5.10 g",
+          "2 %"
+        ],
+        "proteínas": [
+          "16.00 g",
+          "22 %"
+        ],
+        "gorduras totais": [
+          "3.30 g",
+          "6 %"
+        ],
+        "gorduras saturada": [
+          "1.00 g",
+          "5 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "1.30 g",
+          "6 %"
+        ],
+        "sódio": [
+          "206.00 mg",
+          "9 %"
+        ]
       },
       "category": "frangos"
     },
@@ -333,14 +715,38 @@
       "description": "O estrogonofe de frango é uma versão bem popular no Brasil da tradicional receita russa, que é feita com carne.\nNosso estrogonofe de frango é delicioso, feito com o peito cortadinho em iscas, em um molho à base de creme de leite sem lactose e ingredientes frescos como cenoura, tomate e cenoura orgânicos.\nada de molhos e temperos industrializados. O resultado não poderia ser melhor! Fica uma delícia acompanhado das incríveis batatas rústicas ou da batata-doce assada no forno.",
       "ingredient": "peito de frango sem antibiótico, tomate orgânico, creme de leite sem lactose, cebola orgânica, azeite extra virgem, alho, sal.",
       "valueNutri": {
-        "valor energético": ["293.00 kcal", "15 %"],
-        "carboidratos": ["5.60 g", "2 %"],
-        "proteínas": ["24.00 g", "32 %"],
-        "gorduras totais": ["20.00 g", "37 %"],
-        "gorduras saturada": ["8.90 g", "41 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.70 g", "3 %"],
-        "sódio": ["384.00 mg", "16 %"]
+        "valor energético": [
+          "293.00 kcal",
+          "15 %"
+        ],
+        "carboidratos": [
+          "5.60 g",
+          "2 %"
+        ],
+        "proteínas": [
+          "24.00 g",
+          "32 %"
+        ],
+        "gorduras totais": [
+          "20.00 g",
+          "37 %"
+        ],
+        "gorduras saturada": [
+          "8.90 g",
+          "41 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.70 g",
+          "3 %"
+        ],
+        "sódio": [
+          "384.00 mg",
+          "16 %"
+        ]
       },
       "category": "frangos"
     },
@@ -354,14 +760,38 @@
       "description": "Comida saudável congelada agora é saborosa, tem muita graça e muita cor! Nosso delicioso frango com curry é a prova disto! São cubos de peito de frango, criado sem antibioticos, que é uma ótima proteína, preparado com muito tempero.\nUsamos curry e cúrcuma, dois temperos muito usados na Índia, que são bem naturais, do jeitinho que a gente gosta! Além de trazerem um gosto diferente, intenso, para o frango, são super poderosos para a nossa saúde.",
       "ingredient": "peito de frango sem antibiótico, cebola orgânica, azeite extra virgem, limão tahiti orgânico, alho, curry, salsinha orgânica, cúrcuma, sal, pimenta-do-reino.",
       "valueNutri": {
-        "valor energético": ["182.00 kcal", "10 %"],
-        "carboidratos": ["3.70 g", "2 %"],
-        "proteínas": ["24.00 g", "32 %"],
-        "gorduras totais": ["7.90 g", "15 %"],
-        "gorduras saturada": ["1.90 g", "9 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.90 g", "4 %"],
-        "sódio": ["269.00 mg", "12 %"]
+        "valor energético": [
+          "182.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "3.70 g",
+          "2 %"
+        ],
+        "proteínas": [
+          "24.00 g",
+          "32 %"
+        ],
+        "gorduras totais": [
+          "7.90 g",
+          "15 %"
+        ],
+        "gorduras saturada": [
+          "1.90 g",
+          "9 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.90 g",
+          "4 %"
+        ],
+        "sódio": [
+          "269.00 mg",
+          "12 %"
+        ]
       },
       "category": "frangos"
     },
@@ -371,18 +801,44 @@
       "title": "Frango com molho de laranja",
       "weight": "110g",
       "price": "R$ 13,50",
-      "tags": ["contém lactose"],
+      "tags": [
+        "contém lactose"
+      ],
       "description": "Um frango que sempre cai bem, especialmente nos dias quentes.\nO gengibre traz ao mesmo tempo uma leve picância e frescor.\nA carne fica mais saborosa e macia, e você pode combinar com arrozes, saladas de folhas, legumes refogados e muitos outros acompanhamentos.",
       "ingredient": "peito de frango sem antibiótico, suco de laranja pasteurizado, cebola orgânica, mel orgânico, manteiga, azeite extra virgem, limão tahiti orgânico, gengibre em pó, vinagre de arroz, cebolinha orgânica, sal, coentro, alho em pó, cebola em pó, cúrcuma, páprica doce, pimenta calabresa.",
       "valueNutri": {
-        "valor energético": ["208.00 kcal", "11 %"],
-        "carboidratos": ["8.00 g", "3 %"],
-        "proteínas": ["23.00 g", "31 %"],
-        "gorduras totais": ["9.50 g", "18 %"],
-        "gorduras saturada": ["3.50 g", "16 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.50 g", "2 %"],
-        "sódio": ["360.00 mg", "15 %"]
+        "valor energético": [
+          "208.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "8.00 g",
+          "3 %"
+        ],
+        "proteínas": [
+          "23.00 g",
+          "31 %"
+        ],
+        "gorduras totais": [
+          "9.50 g",
+          "18 %"
+        ],
+        "gorduras saturada": [
+          "3.50 g",
+          "16 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.50 g",
+          "2 %"
+        ],
+        "sódio": [
+          "360.00 mg",
+          "15 %"
+        ]
       },
       "category": "frangos"
     },
@@ -392,18 +848,44 @@
       "title": "Frango ao molho de leite de coco",
       "weight": "130g",
       "price": "R$ 13,50",
-      "tags": ["contém nuts"],
+      "tags": [
+        "contém nuts"
+      ],
       "description": "O leite de coco dá um gostinho de verão para qualquer prato, e nessa receita não foi diferente: leve, fresca, com o frango bem suculento e um toque de gengibre, ela vai garantir tempo aberto no seu prato a qualquer dia.\n.",
       "ingredient": "peito de frango sem antibiótico, leite de coco, cebola orgânica, castanha de caju, limão tahiti orgânico, alho, gengibre orgânico, melado de cana, capim limão, azeite extra virgem, sal, salsinha orgânica, manjericão orgânico, coentro, hortelã orgânica, curry em pó.",
       "valueNutri": {
-        "valor energético": ["194.00 kcal", "10 %"],
-        "carboidratos": ["5.70 g", "2 %"],
-        "proteínas": ["24.00 g", "32 %"],
-        "gorduras totais": ["8.10 g", "15 %"],
-        "gorduras saturada": ["3.10 g", "15 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["1.40 g", "6 %"],
-        "sódio": ["230.00 mg", "10 %"]
+        "valor energético": [
+          "194.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "5.70 g",
+          "2 %"
+        ],
+        "proteínas": [
+          "24.00 g",
+          "32 %"
+        ],
+        "gorduras totais": [
+          "8.10 g",
+          "15 %"
+        ],
+        "gorduras saturada": [
+          "3.10 g",
+          "15 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "1.40 g",
+          "6 %"
+        ],
+        "sódio": [
+          "230.00 mg",
+          "10 %"
+        ]
       },
       "category": "frangos"
     },
@@ -417,14 +899,38 @@
       "description": "Mostarda e mel, intensidade e equilíbrio, sabor e praticidade.\nNessa porção, tá tudo junto, misturado e em perfeita harmonia.\nAssim, mais que um prato, ela proporciona uma experiência totalmente nova. E o melhor: em poucos minutos.",
       "ingredient": "peito de frango sem antibiótico, mostarda amarela, mel orgânico, azeite extra virgem, sal, páprica doce, salsinha orgânica, pimenta-do-reino.",
       "valueNutri": {
-        "valor energético": ["186.00 kcal", "10 %"],
-        "carboidratos": ["4.90 g", "2 %"],
-        "proteínas": ["26.00 g", "35 %"],
-        "gorduras totais": ["7.00 g", "13 %"],
-        "gorduras saturada": ["1.90 g", "9 %"],
-        "gorduras trans": ["0.00 g", "** %"],
-        "fibra alimentar": ["0.50 g", "2 %"],
-        "sódio": ["394.00 mg", "17 %"]
+        "valor energético": [
+          "186.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "4.90 g",
+          "2 %"
+        ],
+        "proteínas": [
+          "26.00 g",
+          "35 %"
+        ],
+        "gorduras totais": [
+          "7.00 g",
+          "13 %"
+        ],
+        "gorduras saturada": [
+          "1.90 g",
+          "9 %"
+        ],
+        "gorduras trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra alimentar": [
+          "0.50 g",
+          "2 %"
+        ],
+        "sódio": [
+          "394.00 mg",
+          "17 %"
+        ]
       },
       "category": "frangos"
     }
