@@ -1588,7 +1588,8 @@
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
         "1 Avental BHealthy"
-      ]
+      ],
+      "category": "boxs"
     },
     {
       "id": 2,
@@ -1601,7 +1602,8 @@
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
         "1 Avental BHealthy"
-      ]
+      ],
+      "category": "boxs"
     },
     {
       "id": 3,
@@ -1614,7 +1616,8 @@
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
         "1 Avental BHealthy"
-      ]
+      ],
+      "category": "boxs"
     },
     {
       "id": 4,
@@ -1627,7 +1630,8 @@
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
         "1 Avental BHealthy"
-      ]
+      ],
+      "category": "boxs"
     },
     {
       "id": 5,
@@ -1640,7 +1644,8 @@
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
         "1 Avental BHealthy"
-      ]
+      ],
+      "category": "boxs"
     }
   ]
 }
