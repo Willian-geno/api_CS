@@ -10,6 +10,7 @@
       "area": "Centro",
       "number": "1950",
       "complement": "Apartamento 4",
+      "subscriber": false,
       "id": 1
     }
   ],
@@ -1573,6 +1574,73 @@
         "sodio": ["374.00 mg", "16 %"]
       },
       "category": "sopas e cremes"
+    }
+  ],
+  "boxes": [
+    {
+      "id": 1,
+      "img": "https://media.realclearbible.com/Food.jpg",
+      "title": "Box Clássica",
+      "weight": "400g",
+      "price": "R$ 38,90 /mês",
+      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "contents": [
+        "400g em ingredientes frescos",
+        "1 Guia de preparo com 2 receitas deliciosas",
+        "1 Avental BHealthy"
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://media.realclearbible.com/Food.jpg",
+      "title": "Box Vegetariana",
+      "weight": "400g",
+      "price": "R$ 38,90 /mês",
+      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "contents": [
+        "400g em ingredientes frescos",
+        "1 Guia de preparo com 2 receitas deliciosas",
+        "1 Avental BHealthy"
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://media.realclearbible.com/Food.jpg",
+      "title": "Box Sem Lactose",
+      "weight": "400g",
+      "price": "R$ 38,90 /mês",
+      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "contents": [
+        "400g em ingredientes frescos",
+        "1 Guia de preparo com 2 receitas deliciosas",
+        "1 Avental BHealthy"
+      ]
+    },
+    {
+      "id": 4,
+      "img": "https://media.realclearbible.com/Food.jpg",
+      "title": "Box Mais Carnes",
+      "weight": "400g",
+      "price": "R$ 38,90 /mês",
+      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "contents": [
+        "400g em ingredientes frescos",
+        "1 Guia de preparo com 2 receitas deliciosas",
+        "1 Avental BHealthy"
+      ]
+    },
+    {
+      "id": 5,
+      "img": "https://media.realclearbible.com/Food.jpg",
+      "title": "Box Pães",
+      "weight": "400g",
+      "price": "R$ 38,90 /mês",
+      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "contents": [
+        "400g em ingredientes frescos",
+        "1 Guia de preparo com 2 receitas deliciosas",
+        "1 Avental BHealthy"
+      ]
     }
   ]
 }
