@@ -1578,12 +1578,12 @@
   ],
   "boxes": [
     {
-      "id": 1,
+      "id": 100,
       "img": "https://media.realclearbible.com/Food.jpg",
-      "title": "Box Clássica",
+      "title": "Box Carnes Vermelhas",
       "weight": "400g",
-      "price": "R$ 38,90 /mês",
-      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "price": "R$ 38,90",
+      "description": "",
       "contents": [
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
@@ -1592,12 +1592,12 @@
       "category": "boxs"
     },
     {
-      "id": 2,
+      "id": 101,
       "img": "https://media.realclearbible.com/Food.jpg",
-      "title": "Box Vegetariana",
+      "title": "Box Frangos",
       "weight": "400g",
-      "price": "R$ 38,90 /mês",
-      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "price": "R$ 37,90",
+      "description": "",
       "contents": [
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
@@ -1606,44 +1606,58 @@
       "category": "boxs"
     },
     {
-      "id": 3,
+      "id": 102,
       "img": "https://media.realclearbible.com/Food.jpg",
-      "title": "Box Sem Lactose",
+      "title": "Box Vegetarianos",
       "weight": "400g",
-      "price": "R$ 38,90 /mês",
-      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "price": "R$ 35,90",
+      "description": "Quando a Inham nasceu, o nosso maior objetivo era mostrar que manter uma alimentação saudável pode ser algo fácil e empolgante com a ajuda certa. Nossos pratos vegetarianos foram os primeiros a nascerem, temos um lugarzinho especial para eles em nossos corações e todo mês nosos chefs se superam com receitas gostosíssimas, inovadoras e muito simples de se preparar.",
       "contents": [
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
-        "1 Avental BHealthy"
+        "1 Cortador de salada Inham"
       ],
       "category": "boxs"
     },
     {
-      "id": 4,
+      "id": 103,
       "img": "https://media.realclearbible.com/Food.jpg",
-      "title": "Box Mais Carnes",
+      "title": "Box Peixes e Frutos do Mar",
       "weight": "400g",
-      "price": "R$ 38,90 /mês",
-      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "price": "R$ 38,90",
+      "description": "",
       "contents": [
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
-        "1 Avental BHealthy"
+        "1 Avental Inham"
       ],
       "category": "boxs"
     },
     {
-      "id": 5,
+      "id": 104,
       "img": "https://media.realclearbible.com/Food.jpg",
       "title": "Box Pães",
       "weight": "400g",
-      "price": "R$ 38,90 /mês",
-      "description": "Lorem Ipsum e tal texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto texto",
+      "price": "R$ 36,90",
+      "description": "Alguns dos nossos primeiros chefs foram padeiros por anos e essa paixão por massas tem nos motivado cada vez mais a procurar receitas interessantes, muitas vindo de culturas diferentes, porque todo mundo teu seu jeito de preparar pães e bolos. O foco sempre foi trazer algo novo e que respeite um valor nutricional equilibrado, para você poder se deliciar nessas receitas sem se preocupar com o buchinho.",
       "contents": [
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
-        "1 Avental BHealthy"
+        "1 Avental Inham"
+      ],
+      "category": "boxs"
+    },
+    {
+      "id": 105,
+      "img": "https://media.realclearbible.com/Food.jpg",
+      "title": "Box Sopas e Cremes",
+      "weight": "400g",
+      "price": "R$ 35,90",
+      "description": "",
+      "contents": [
+        "400g em ingredientes frescos",
+        "1 Guia de preparo com 2 receitas deliciosas",
+        "1 Colher de madeira Inham"
       ],
       "category": "boxs"
     }
