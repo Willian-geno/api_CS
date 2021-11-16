@@ -1579,7 +1579,7 @@
   "boxes": [
     {
       "id": 100,
-      "img": "https://media.realclearbible.com/Food.jpg",
+      "img": "https://i.ibb.co/Cz8btbr/boxMeat.png",
       "title": "Box Carnes Vermelhas",
       "weight": "400g",
       "price": "R$ 38,90",
@@ -1593,7 +1593,7 @@
     },
     {
       "id": 101,
-      "img": "https://media.realclearbible.com/Food.jpg",
+      "img": "https://i.ibb.co/5TZKsBN/box-Chickens.png",
       "title": "Box Frangos",
       "weight": "400g",
       "price": "R$ 37,90",
@@ -1607,7 +1607,7 @@
     },
     {
       "id": 102,
-      "img": "https://media.realclearbible.com/Food.jpg",
+      "img": "https://i.ibb.co/wKvPbWQ/box-Vegetarian.png",
       "title": "Box Vegetarianos",
       "weight": "400g",
       "price": "R$ 35,90",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": 103,
-      "img": "https://media.realclearbible.com/Food.jpg",
+      "img": "https://i.ibb.co/LdsTqnx/boxFish.png",
       "title": "Box Peixes e Frutos do Mar",
       "weight": "400g",
       "price": "R$ 38,90",
@@ -1635,7 +1635,7 @@
     },
     {
       "id": 104,
-      "img": "https://media.realclearbible.com/Food.jpg",
+      "img": "https://i.ibb.co/ZfQm6mh/box-Breads.png",
       "title": "Box Pães",
       "weight": "400g",
       "price": "R$ 36,90",
@@ -1649,11 +1649,11 @@
     },
     {
       "id": 105,
-      "img": "https://media.realclearbible.com/Food.jpg",
-      "title": "Box Sopas e Cremes",
+      "img": "https://i.ibb.co/2Kw9Hts/boxSoups.png",
+      "title": "Box Sopas e Caldos",
       "weight": "400g",
       "price": "R$ 35,90",
-      "description": "",
+      "description": "Nada substitui uma boa sopa quente feita do jeitinho certo, só que esse jeitinho pode ser bem diferente dependendo de pra quem se pergunta. Querendo ou não, sopa é um prato com gosto de casa, que sempre nos traz conforto e nostalgia. Com essas receitas a nossa missão é trazer um pouquinho de cada casa, procurando sempre ser bem variadas mas claramente caseiras e recheadas de sabor.",
       "contents": [
         "400g em ingredientes frescos",
         "1 Guia de preparo com 2 receitas deliciosas",
