@@ -1,15 +1,15 @@
 {
   "users": [
     {
-      "email": "gabriel@azevedo.com",
-      "password": "$2a$10$/OlLcybZz/W.jZs8gPTaKelsoFQ1O5x0LHxfZDnViyCXE.E1qHd7.",
-      "name": "Gabriel Azevedo",
-      "phone": "55 978456234",
-      "cep": "95020-320",
+      "email": "kenzie@mail.com",
+      "password": "$2a$10$SXJBymo8znSRIEjNeRoeNeNlHyIk.Lkxs2MinwgVv8CHc/IyJL6jq",
+      "name": "Kenzinho",
+      "phone": "66 544332211",
+      "cep": "80420-010",
       "address": "Rua Avenida",
       "area": "Centro",
-      "number": "1950",
-      "complement": "Apartamento 4",
+      "number": "1911",
+      "complement": "Apartamento 3",
       "subscriber": false,
       "id": 1
     }
@@ -21,18 +21,44 @@
       "title": "Bolinha de abóbora e carne com chia",
       "weight": "100g",
       "price": "R$ 8,90",
-      "tags": ["contém lactose"],
+      "tags": [
+        "contém lactose"
+      ],
       "description": "Uma ótima opção de snack para o meio da manhã ou da tarde, as bolinhas de abóbora e carne com chia vão matar a sua fome e te dar energia até a próxima refeição.\nTambém podem ser uma boa pedida para incrementar um prato, já que o crocante da chia e o sabor do parmesão trazem um toque todo especial à essas bolinhas tão saborosas!.",
       "ingredient": "abóbora japonesa orgânica, carne bovina, cebola orgânica, chia, queijo parmesão, farinha de coco, azeite extra virgem, páprica doce, sal, pimenta do reino.",
       "valueNutri": {
-        "valor_energetico": ["184.00 kcal", "10 %"],
-        "carboidratos": ["11.00 g", "4 %"],
-        "proteinas": ["16.00 g", "22 %"],
-        "gorduras_totais": ["8.20 g", "15 %"],
-        "gorduras_saturada": ["2.80 g", "13 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["5.50 g", "22 %"],
-        "sodio": ["165.00 mg", "7 %"]
+        "valor_energetico": [
+          "184.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "11.00 g",
+          "4 %"
+        ],
+        "proteinas": [
+          "16.00 g",
+          "22 %"
+        ],
+        "gorduras_totais": [
+          "8.20 g",
+          "15 %"
+        ],
+        "gorduras_saturada": [
+          "2.80 g",
+          "13 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "5.50 g",
+          "22 %"
+        ],
+        "sodio": [
+          "165.00 mg",
+          "7 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -46,14 +72,38 @@
       "description": "Assim que colocar essa porção no prato, você vai sentir cheiro de 'me dei bem'. E vai ter certeza disso quando ver que tem muita carne louca no pedaço - é uma mega porção! Mas a carne não vem sozinha: muito macia e bem preparada, ela chega acompanhada de temperos naturais, inclusive orgânicos, que dão um sabor super intenso a cada mordida.\nExperimente com batata rústica, purê ou da forma mais clássica: como o recheio de um belo sanduichão.",
       "ingredient": "carne bovina, cebola orgânica, extrato de tomate, cenoura, alho-poró orgânico, pimentão verde orgânico, azeite extra virgem, pimentão amarelo orgânico, salsinha orgânica, alho, sal.",
       "valueNutri": {
-        "valor_energetico": ["182.00 kcal", "10 %"],
-        "carboidratos": ["6.30 g", "3 %"],
-        "proteinas": ["22.00 g", "30 %"],
-        "gorduras_totais": ["7.70 g", "14 %"],
-        "gorduras_saturada": ["2.80 g", "13 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.50 g", "6 %"],
-        "sodio": ["555.00 mg", "24 %"]
+        "valor_energetico": [
+          "182.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "6.30 g",
+          "3 %"
+        ],
+        "proteinas": [
+          "22.00 g",
+          "30 %"
+        ],
+        "gorduras_totais": [
+          "7.70 g",
+          "14 %"
+        ],
+        "gorduras_saturada": [
+          "2.80 g",
+          "13 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.50 g",
+          "6 %"
+        ],
+        "sodio": [
+          "555.00 mg",
+          "24 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -67,14 +117,38 @@
       "description": "Quer prato mais caseiro, com gostinho de comida de casa, daqueles feitas pela mamãe do que carne moída com cenoura e vagem? Usamos patinho moído, que é uma carne de primeira, ideal para fazer carne moída refogadinha.\nÉ bem macia e tem pouca gordura, mas é bem saborosa e molhadinha.\nEsta clássica comida caseira é uma opção saborosa e muito nutritiva. Fica ótima com batatinhas, arroz, feijão, algo assim, com gostinho de casa.",
       "ingredient": "carne bovina, cenoura, cebola orgânica, vagem, azeite extra virgem, alho, sal, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["143.00 kcal", "8 %"],
-        "carboidratos": ["3.40 g", "2 %"],
-        "proteinas": ["18.00 g", "24 %"],
-        "gorduras_totais": ["6.20 g", "12 %"],
-        "gorduras_saturada": ["2.10 g", "10 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.10 g", "5 %"],
-        "sodio": ["269.00 mg", "12 %"]
+        "valor_energetico": [
+          "143.00 kcal",
+          "8 %"
+        ],
+        "carboidratos": [
+          "3.40 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "18.00 g",
+          "24 %"
+        ],
+        "gorduras_totais": [
+          "6.20 g",
+          "12 %"
+        ],
+        "gorduras_saturada": [
+          "2.10 g",
+          "10 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.10 g",
+          "5 %"
+        ],
+        "sodio": [
+          "269.00 mg",
+          "12 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -88,14 +162,38 @@
       "description": "O aroma desse prato te leva direto para um churrasco com a galera na beira da piscina.\nE se o cheiro já é bom, o sabor é um absurdo, resultado de um preparo cuidadoso e da companhia do chimichurri.\nNossa versão desse molho (um clássico meio uruguaio, meio argentino) leva ervas frescas, e deixa o filé mignon, que é pouco gorduroso e super macio, ainda mais suculento. Experimente combinar com purê de batatas ou com o clássico arroz com feijão e aprecie cada pedacinho.",
       "ingredient": "filé mignon, azeite extra virgem, salsinha orgânica, sal, vinagre de vinho tinto, alho, pimenta do reino, páprica defumada.",
       "valueNutri": {
-        "valor_energetico": ["245.00 kcal", "13 %"],
-        "carboidratos": ["0.30 g", "1 %"],
-        "proteinas": ["33.00 g", "44 %"],
-        "gorduras_totais": ["13.00 g", "24 %"],
-        "gorduras_saturada": ["5.00 g", "23 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.10 g", "1 %"],
-        "sodio": ["418.00 mg", "18 %"]
+        "valor_energetico": [
+          "245.00 kcal",
+          "13 %"
+        ],
+        "carboidratos": [
+          "0.30 g",
+          "1 %"
+        ],
+        "proteinas": [
+          "33.00 g",
+          "44 %"
+        ],
+        "gorduras_totais": [
+          "13.00 g",
+          "24 %"
+        ],
+        "gorduras_saturada": [
+          "5.00 g",
+          "23 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.10 g",
+          "1 %"
+        ],
+        "sodio": [
+          "418.00 mg",
+          "18 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -109,14 +207,38 @@
       "description": "Um clássico da culinária mundial que tem apenas o que um hamburguer precisa: sal e carne de qualidade.\nNosso hamburguer é feito com fraldinha de primeira temperada com sal rosa.\nEsse corte da carne fica ótimo no hambúrguer, porque tem uma certa quantidade de gordura, ideal para deixar bem macio e saboroso. Assim, não precisamos acrescentar mais nada! É rico em proteína, zero carboidratos. Fica perfeito para acompanhar um arroz, risoto ou montar um X-salada de respeito!",
       "ingredient": "carne moída (fraldinha), sal.",
       "valueNutri": {
-        "valor_energetico": ["386.00 kcal", "20 %"],
-        "carboidratos": ["0.00 g", "0 %"],
-        "proteinas": ["32.00 g", "43 %"],
-        "gorduras_totais": ["29.00 g", "53 %"],
-        "gorduras_saturada": ["13.00 g", "60 %"],
-        "gorduras_trans": ["0.80 g", "** %"],
-        "fibra_alimentar": ["0.00 g", "0 %"],
-        "sodio": ["538.00 mg", "23 %"]
+        "valor_energetico": [
+          "386.00 kcal",
+          "20 %"
+        ],
+        "carboidratos": [
+          "0.00 g",
+          "0 %"
+        ],
+        "proteinas": [
+          "32.00 g",
+          "43 %"
+        ],
+        "gorduras_totais": [
+          "29.00 g",
+          "53 %"
+        ],
+        "gorduras_saturada": [
+          "13.00 g",
+          "60 %"
+        ],
+        "gorduras_trans": [
+          "0.80 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.00 g",
+          "0 %"
+        ],
+        "sodio": [
+          "538.00 mg",
+          "23 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -126,18 +248,45 @@
       "title": "Iscas de filé mignon ao molho mostarda",
       "weight": "110g",
       "price": "R$ 21,90",
-      "tags": ["contém glúten", "contém lactose"],
+      "tags": [
+        "contém glúten",
+        "contém lactose"
+      ],
       "description": "Um clássico da cozinha francesa direto para sua casa.\nFilé mignon macio e saboroso com molho de mostarda amarela e creme de leite sem lactose.\nPrático e versátil, ele combina com todos os tipos de acompanhamentos: arroz, legumes refogados e até uma boa massa. Ideal para uma refeição simples, porém requintada.",
       "ingredient": "filé mignon, mostarda amarela, creme de leite sem lactose, azeite extra virgem, farinha de trigo, leite em pó integral, sal, páprica defumada, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["172.00 kcal", "9 %"],
-        "carboidratos": ["3.10 g", "2 %"],
-        "proteinas": ["20.00 g", "27 %"],
-        "gorduras_totais": ["8.80 g", "17 %"],
-        "gorduras_saturada": ["3.90 g", "18 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.30 g", "2 %"],
-        "sodio": ["268.00 mg", "12 %"]
+        "valor_energetico": [
+          "172.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "3.10 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "20.00 g",
+          "27 %"
+        ],
+        "gorduras_totais": [
+          "8.80 g",
+          "17 %"
+        ],
+        "gorduras_saturada": [
+          "3.90 g",
+          "18 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.30 g",
+          "2 %"
+        ],
+        "sodio": [
+          "268.00 mg",
+          "12 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -147,18 +296,45 @@
       "title": "Picadinho oriental",
       "weight": "140g",
       "price": "R$ 17,90",
-      "tags": ["contém glúten", "contém nuts"],
+      "tags": [
+        "contém glúten",
+        "contém nuts"
+      ],
       "description": "Inspirado na culinária oriental, este picadinho é feito com carne bovina, legumes refogados no shoyu e um toque especial de gengibre e páprica defumada.\nUm prato delicioso e cheio de estilo, perfeito pra um almoço ou um jantar com uma proteína especial.",
       "ingredient": "carne bovina, cebola orgânica, cenoura, cebola roxa orgânica, óleo de gergelim, cebolinha orgânica, pimentão amarelo orgânico, pimentão vermelho, açúcar mascavo, vinagre de arroz, amendoim, molho shoyu, farinha de trigo enriquecida com ferro e ácido fólico, gengibre orgânico, fécula de batata, sal, alho em pó, páprica defumada.",
       "valueNutri": {
-        "valor_energetico": ["233.00 kcal", "12 %"],
-        "carboidratos": ["13.00 g", "5 %"],
-        "proteinas": ["16.00 g", "22 %"],
-        "gorduras_totais": ["13.00 g", "24 %"],
-        "gorduras_saturada": ["2.90 g", "14 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.60 g", "7 %"],
-        "sodio": ["235.00 mg", "10 %"]
+        "valor_energetico": [
+          "233.00 kcal",
+          "12 %"
+        ],
+        "carboidratos": [
+          "13.00 g",
+          "5 %"
+        ],
+        "proteinas": [
+          "16.00 g",
+          "22 %"
+        ],
+        "gorduras_totais": [
+          "13.00 g",
+          "24 %"
+        ],
+        "gorduras_saturada": [
+          "2.90 g",
+          "14 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.60 g",
+          "7 %"
+        ],
+        "sodio": [
+          "235.00 mg",
+          "10 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -168,18 +344,45 @@
       "title": "Quibe assado com castanha do Pará",
       "weight": "100g",
       "price": "R$ 11,50",
-      "tags": ["contém glúten", "contém nuts"],
+      "tags": [
+        "contém glúten",
+        "contém nuts"
+      ],
       "description": "Sempre pensando em inovar, a Liv Up trouxe uma receita de quibe baseada no prato típico do Oriente Médio, mas com alguns detalhes para deixar do jeitinho que a gente gosta.\nEste quibe é assado e super saboroso por conta dos temperos naturais que colocamos.\nTem castanha do Pará, que dá o toque especial e bem brasileiro, fornecendo muitos nutrientes. É ótimo para comer no lanche, ou quem sabe no almoço e jantar.",
       "ingredient": "carne bovina, trigo para quibe, cebola orgânica, limão tahiti orgânico, castanha do pará , sal, azeite extra virgem, hortelã orgânica, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["201.00 kcal", "11 %"],
-        "carboidratos": ["16.00 g", "6 %"],
-        "proteinas": ["16.00 g", "22 %"],
-        "gorduras_totais": ["7.80 g", "15 %"],
-        "gorduras_saturada": ["2.10 g", "10 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.10 g", "9 %"],
-        "sodio": ["183.00 mg", "8 %"]
+        "valor_energetico": [
+          "201.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "16.00 g",
+          "6 %"
+        ],
+        "proteinas": [
+          "16.00 g",
+          "22 %"
+        ],
+        "gorduras_totais": [
+          "7.80 g",
+          "15 %"
+        ],
+        "gorduras_saturada": [
+          "2.10 g",
+          "10 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.10 g",
+          "9 %"
+        ],
+        "sodio": [
+          "183.00 mg",
+          "8 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -193,14 +396,38 @@
       "description": "A nossa versão desse molho tradicional, perfeito para acompanhar diversos tipos de massa.\nUma combinação de um delicioso molho de tomate orgânico com nossa linguiça artesanal, tudo feito com ingredientes naturais para ter um resultado bem caprichado nos temperos, especiarias e, claro, no sabor.",
       "ingredient": "tomate orgânico, pernil suíno, paleta suína, cebola orgânica, extrato de tomate, cenoura, azeite extra virgem, salsa em flocos, alho, sal, páprica picante, alho em pó, manjericão orgânico, pimenta calabresa, erva doce, páprica defumada.",
       "valueNutri": {
-        "valor_energetico": ["176.00 kcal", "9 %"],
-        "carboidratos": ["6.70 g", "3 %"],
-        "proteinas": ["15.00 g", "20 %"],
-        "gorduras_totais": ["9.80 g", "18 %"],
-        "gorduras_saturada": ["3.00 g", "14 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.30 g", "6 %"],
-        "sodio": ["320.00 mg", "14 %"]
+        "valor_energetico": [
+          "176.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "6.70 g",
+          "3 %"
+        ],
+        "proteinas": [
+          "15.00 g",
+          "20 %"
+        ],
+        "gorduras_totais": [
+          "9.80 g",
+          "18 %"
+        ],
+        "gorduras_saturada": [
+          "3.00 g",
+          "14 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.30 g",
+          "6 %"
+        ],
+        "sodio": [
+          "320.00 mg",
+          "14 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -214,14 +441,38 @@
       "description": "*Aquecimento somente no micro-ondas.\n* Tempero brasileiro especial, para transformar a receita original russa em algo caseiro como a gente gosta.\nSimplesmente delicioso e perfeito para acompanhar com arroz e batata, em porção caprichada de 420g.",
       "ingredient": "carne bovina, creme de leite sem lactose, cebola orgânica, cogumelo paris, extrato de tomate, ketchup, mostarda amarela, azeite extra virgem, farinha de trigo enriquecida com ferro e ácido fólico, sal, alho.",
       "valueNutri": {
-        "valor_energetico": ["163.00 kcal", "9 %"],
-        "carboidratos": ["6.00 g", "2 %"],
-        "proteinas": ["14.00 g", "19 %"],
-        "gorduras_totais": ["9.20 g", "17 %"],
-        "gorduras_saturada": ["4.50 g", "21 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.90 g", "4 %"],
-        "sodio": ["314.00 mg", "14 %"]
+        "valor_energetico": [
+          "163.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "6.00 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "14.00 g",
+          "19 %"
+        ],
+        "gorduras_totais": [
+          "9.20 g",
+          "17 %"
+        ],
+        "gorduras_saturada": [
+          "4.50 g",
+          "21 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.90 g",
+          "4 %"
+        ],
+        "sodio": [
+          "314.00 mg",
+          "14 %"
+        ]
       },
       "category": "carnes vermelhas"
     },
@@ -231,18 +482,45 @@
       "title": "Frango com amendoim e Lemon pepper - 4 porções",
       "weight": "440g",
       "price": "R$ 45,00",
-      "tags": ["contém nuts", "contém ovos"],
+      "tags": [
+        "contém nuts",
+        "contém ovos"
+      ],
       "description": "Uma mistura que surpreende quem ainda não conhece, e que se tornou campeã de preferência na Liv Up.\nO sabor do frango, a crocância do amendoim e a picância da lemon pepper dão a cada mordida uma experiência à parte, pra degustar e sentir cada detalhe dessa receita especial e super bem produzida pelos chefs da Liv Up.\nVale cada pedaço ou, neste caso, cada porção pra compartilhar. Nesta versão, o frango com amendoim e lemon pepper serve até 4 porções.",
       "ingredient": "peito de frango sem antibiótico, aveia em flocos, semente de girassol, amendoim, clara de ovo, limão tahiti orgânico, azeite extra virgem, lemon pepper, sal.",
       "valueNutri": {
-        "valor_energetico": ["271.00 kcal", "14 %"],
-        "carboidratos": ["12.00 g", "4 %"],
-        "proteinas": ["25.00 g", "34 %"],
-        "gorduras_totais": ["13.00 g", "24 %"],
-        "gorduras_saturada": ["2.50 g", "12 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.10 g", "9 %"],
-        "sodio": ["384.00 mg", "16 %"]
+        "valor_energetico": [
+          "271.00 kcal",
+          "14 %"
+        ],
+        "carboidratos": [
+          "12.00 g",
+          "4 %"
+        ],
+        "proteinas": [
+          "25.00 g",
+          "34 %"
+        ],
+        "gorduras_totais": [
+          "13.00 g",
+          "24 %"
+        ],
+        "gorduras_saturada": [
+          "2.50 g",
+          "12 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.10 g",
+          "9 %"
+        ],
+        "sodio": [
+          "384.00 mg",
+          "16 %"
+        ]
       },
       "category": "frangos"
     },
@@ -252,18 +530,44 @@
       "title": "Frango com crosta de castanha de caju",
       "weight": "110g",
       "price": "R$ 14,50",
-      "tags": ["contém nuts"],
+      "tags": [
+        "contém nuts"
+      ],
       "description": "'Uma versão nada sem graça do peito de frango! Criamos uma deliciosa crosta, para 'empanar' com a castanha de caju moída.\nEssa castanha super brasileira traz mais bossa, mais graça e sabor para essa receita.\nÉ um prato bem nutritivo, super gostoso e diferente. Ideal para fugir do filé de frango de sempre, que pode enjoar. Acompanhado de legumes, qualquer tipo de arroz, feijão ou lentilha vai muito bem. É sucesso na certa!'",
       "ingredient": "peito de frango sem antibiótico, castanha de cajú, azeite extra virgem, sal, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["293.00 kcal", "15 %"],
-        "carboidratos": ["7.30 g", "3 %"],
-        "proteinas": ["30.00 g", "40 %"],
-        "gorduras_totais": ["16.00 g", "30 %"],
-        "gorduras_saturada": ["3.20 g", "15 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["4.50 g", "18 %"],
-        "sodio": ["249.00 mg", "11 %"]
+        "valor_energetico": [
+          "293.00 kcal",
+          "15 %"
+        ],
+        "carboidratos": [
+          "7.30 g",
+          "3 %"
+        ],
+        "proteinas": [
+          "30.00 g",
+          "40 %"
+        ],
+        "gorduras_totais": [
+          "16.00 g",
+          "30 %"
+        ],
+        "gorduras_saturada": [
+          "3.20 g",
+          "15 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "4.50 g",
+          "18 %"
+        ],
+        "sodio": [
+          "249.00 mg",
+          "11 %"
+        ]
       },
       "category": "frangos"
     },
@@ -277,14 +581,38 @@
       "description": "A carne é macia e muito bem temperada pra você colocar no cardápio sempre.\nGraças à salsinha, à hortelã e ao limão siciliano, a receita fica bem fresca e leve, ideal para qualquer tempo, até para aqueles dias em que o calor não dá trégua.",
       "ingredient": "peito de frango sem antibiótico, azeite extra virgem, limão siciliano, alho, vinagre balsâmico orgânico , salsinha orgânica, sal, hortelã orgânica, páprica picante, orégano, raspas de limão siciliano.",
       "valueNutri": {
-        "valor_energetico": ["205.00 kcal", "11 %"],
-        "carboidratos": ["1.50 g", "1 %"],
-        "proteinas": ["25.00 g", "34 %"],
-        "gorduras_totais": ["11.00 g", "20 %"],
-        "gorduras_saturada": ["2.50 g", "12 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.10 g", "1 %"],
-        "sodio": ["341.00 mg", "15 %"]
+        "valor_energetico": [
+          "205.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "1.50 g",
+          "1 %"
+        ],
+        "proteinas": [
+          "25.00 g",
+          "34 %"
+        ],
+        "gorduras_totais": [
+          "11.00 g",
+          "20 %"
+        ],
+        "gorduras_saturada": [
+          "2.50 g",
+          "12 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.10 g",
+          "1 %"
+        ],
+        "sodio": [
+          "341.00 mg",
+          "15 %"
+        ]
       },
       "category": "frangos"
     },
@@ -298,14 +626,38 @@
       "description": "*Aquecimento somente no micro-ondas.\n* Carne de frango macia em porção de 350g e muito bem temperada, graças à salsinha, hortelã e limão siciliano.\nAquele sabor de comida de casa da vovó, deliciosa e em quantidade caprichada para você ter a melhor refeição do seu dia.",
       "ingredient": "peito de frango sem antibiótico, azeite extra virgem, limão siciliano, salsinha orgânica, sal, páprica doce, cebola em pó, hortelã orgânica, páprica defumada, pimenta-do-reino, alho em pó, raspas de limão siciliano.",
       "valueNutri": {
-        "valor_energetico": ["295.00 kcal", "15 %"],
-        "carboidratos": ["1.60 g", "1 %"],
-        "proteinas": ["40.00 g", "54 %"],
-        "gorduras_totais": ["14.00 g", "26 %"],
-        "gorduras_saturada": ["3.40 g", "16 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.50 g", "2 %"],
-        "sodio": ["418.00 mg", "18 %"]
+        "valor_energetico": [
+          "295.00 kcal",
+          "15 %"
+        ],
+        "carboidratos": [
+          "1.60 g",
+          "1 %"
+        ],
+        "proteinas": [
+          "40.00 g",
+          "54 %"
+        ],
+        "gorduras_totais": [
+          "14.00 g",
+          "26 %"
+        ],
+        "gorduras_saturada": [
+          "3.40 g",
+          "16 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.50 g",
+          "2 %"
+        ],
+        "sodio": [
+          "418.00 mg",
+          "18 %"
+        ]
       },
       "category": "frangos"
     },
@@ -319,14 +671,38 @@
       "description": "Simples, saudável e delicioso, nosso frango desfiado com milho é bem molhadinho e tem um sabor super caseiro.\nIsso porque é preparado com molho de tomate natural, que fazemos aqui, e temperinhos frescos.\nTem aquele gostinho de comida de casa, sabe? Fica uma delícia em qualquer prato acompanhado de purê, arroz, feijão ou o que sua criatividade permitir. Também é ótimo como recheio de sanduíches, panquecas. Enfim, é uma proteína super versátil, ótima para você ter no seu freezer.",
       "ingredient": "peito de frango sem antibiótico, tomate orgânico, milho, cebola orgânica, alho, azeite extra virgem, salsinha orgânica, sal.",
       "valueNutri": {
-        "valor_energetico": ["114.00 kcal", "6 %"],
-        "carboidratos": ["5.10 g", "2 %"],
-        "proteinas": ["16.00 g", "22 %"],
-        "gorduras_totais": ["3.30 g", "6 %"],
-        "gorduras_saturada": ["1.00 g", "5 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.30 g", "6 %"],
-        "sodio": ["206.00 mg", "9 %"]
+        "valor_energetico": [
+          "114.00 kcal",
+          "6 %"
+        ],
+        "carboidratos": [
+          "5.10 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "16.00 g",
+          "22 %"
+        ],
+        "gorduras_totais": [
+          "3.30 g",
+          "6 %"
+        ],
+        "gorduras_saturada": [
+          "1.00 g",
+          "5 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.30 g",
+          "6 %"
+        ],
+        "sodio": [
+          "206.00 mg",
+          "9 %"
+        ]
       },
       "category": "frangos"
     },
@@ -340,14 +716,38 @@
       "description": "O estrogonofe de frango é uma versão bem popular no Brasil da tradicional receita russa, que é feita com carne.\nNosso estrogonofe de frango é delicioso, feito com o peito cortadinho em iscas, em um molho à base de creme de leite sem lactose e ingredientes frescos como cenoura, tomate e cenoura orgânicos.\nada de molhos e temperos industrializados. O resultado não poderia ser melhor! Fica uma delícia acompanhado das incríveis batatas rústicas ou da batata-doce assada no forno.",
       "ingredient": "peito de frango sem antibiótico, tomate orgânico, creme de leite sem lactose, cebola orgânica, azeite extra virgem, alho, sal.",
       "valueNutri": {
-        "valor_energetico": ["293.00 kcal", "15 %"],
-        "carboidratos": ["5.60 g", "2 %"],
-        "proteinas": ["24.00 g", "32 %"],
-        "gorduras_totais": ["20.00 g", "37 %"],
-        "gorduras_saturada": ["8.90 g", "41 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.70 g", "3 %"],
-        "sodio": ["384.00 mg", "16 %"]
+        "valor_energetico": [
+          "293.00 kcal",
+          "15 %"
+        ],
+        "carboidratos": [
+          "5.60 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "24.00 g",
+          "32 %"
+        ],
+        "gorduras_totais": [
+          "20.00 g",
+          "37 %"
+        ],
+        "gorduras_saturada": [
+          "8.90 g",
+          "41 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.70 g",
+          "3 %"
+        ],
+        "sodio": [
+          "384.00 mg",
+          "16 %"
+        ]
       },
       "category": "frangos"
     },
@@ -361,14 +761,38 @@
       "description": "Comida saudável congelada agora é saborosa, tem muita graça e muita cor! Nosso delicioso frango com curry é a prova disto! São cubos de peito de frango, criado sem antibioticos, que é uma ótima proteína, preparado com muito tempero.\nUsamos curry e cúrcuma, dois temperos muito usados na Índia, que são bem naturais, do jeitinho que a gente gosta! Além de trazerem um gosto diferente, intenso, para o frango, são super poderosos para a nossa saúde.",
       "ingredient": "peito de frango sem antibiótico, cebola orgânica, azeite extra virgem, limão tahiti orgânico, alho, curry, salsinha orgânica, cúrcuma, sal, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["182.00 kcal", "10 %"],
-        "carboidratos": ["3.70 g", "2 %"],
-        "proteinas": ["24.00 g", "32 %"],
-        "gorduras_totais": ["7.90 g", "15 %"],
-        "gorduras_saturada": ["1.90 g", "9 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.90 g", "4 %"],
-        "sodio": ["269.00 mg", "12 %"]
+        "valor_energetico": [
+          "182.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "3.70 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "24.00 g",
+          "32 %"
+        ],
+        "gorduras_totais": [
+          "7.90 g",
+          "15 %"
+        ],
+        "gorduras_saturada": [
+          "1.90 g",
+          "9 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.90 g",
+          "4 %"
+        ],
+        "sodio": [
+          "269.00 mg",
+          "12 %"
+        ]
       },
       "category": "frangos"
     },
@@ -378,18 +802,44 @@
       "title": "Frango com molho de laranja",
       "weight": "110g",
       "price": "R$ 13,50",
-      "tags": ["contém lactose"],
+      "tags": [
+        "contém lactose"
+      ],
       "description": "Um frango que sempre cai bem, especialmente nos dias quentes.\nO gengibre traz ao mesmo tempo uma leve picância e frescor.\nA carne fica mais saborosa e macia, e você pode combinar com arrozes, saladas de folhas, legumes refogados e muitos outros acompanhamentos.",
       "ingredient": "peito de frango sem antibiótico, suco de laranja pasteurizado, cebola orgânica, mel orgânico, manteiga, azeite extra virgem, limão tahiti orgânico, gengibre em pó, vinagre de arroz, cebolinha orgânica, sal, coentro, alho em pó, cebola em pó, cúrcuma, páprica doce, pimenta calabresa.",
       "valueNutri": {
-        "valor_energetico": ["208.00 kcal", "11 %"],
-        "carboidratos": ["8.00 g", "3 %"],
-        "proteinas": ["23.00 g", "31 %"],
-        "gorduras_totais": ["9.50 g", "18 %"],
-        "gorduras_saturada": ["3.50 g", "16 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.50 g", "2 %"],
-        "sodio": ["360.00 mg", "15 %"]
+        "valor_energetico": [
+          "208.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "8.00 g",
+          "3 %"
+        ],
+        "proteinas": [
+          "23.00 g",
+          "31 %"
+        ],
+        "gorduras_totais": [
+          "9.50 g",
+          "18 %"
+        ],
+        "gorduras_saturada": [
+          "3.50 g",
+          "16 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.50 g",
+          "2 %"
+        ],
+        "sodio": [
+          "360.00 mg",
+          "15 %"
+        ]
       },
       "category": "frangos"
     },
@@ -399,18 +849,44 @@
       "title": "Frango ao molho de leite de coco",
       "weight": "130g",
       "price": "R$ 13,50",
-      "tags": ["contém nuts"],
+      "tags": [
+        "contém nuts"
+      ],
       "description": "O leite de coco dá um gostinho de verão para qualquer prato, e nessa receita não foi diferente: leve, fresca, com o frango bem suculento e um toque de gengibre, ela vai garantir tempo aberto no seu prato a qualquer dia.\n.",
       "ingredient": "peito de frango sem antibiótico, leite de coco, cebola orgânica, castanha de caju, limão tahiti orgânico, alho, gengibre orgânico, melado de cana, capim limão, azeite extra virgem, sal, salsinha orgânica, manjericão orgânico, coentro, hortelã orgânica, curry em pó.",
       "valueNutri": {
-        "valor_energetico": ["194.00 kcal", "10 %"],
-        "carboidratos": ["5.70 g", "2 %"],
-        "proteinas": ["24.00 g", "32 %"],
-        "gorduras_totais": ["8.10 g", "15 %"],
-        "gorduras_saturada": ["3.10 g", "15 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.40 g", "6 %"],
-        "sodio": ["230.00 mg", "10 %"]
+        "valor_energetico": [
+          "194.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "5.70 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "24.00 g",
+          "32 %"
+        ],
+        "gorduras_totais": [
+          "8.10 g",
+          "15 %"
+        ],
+        "gorduras_saturada": [
+          "3.10 g",
+          "15 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.40 g",
+          "6 %"
+        ],
+        "sodio": [
+          "230.00 mg",
+          "10 %"
+        ]
       },
       "category": "frangos"
     },
@@ -424,14 +900,38 @@
       "description": "Mostarda e mel, intensidade e equilíbrio, sabor e praticidade.\nNessa porção, tá tudo junto, misturado e em perfeita harmonia.\nAssim, mais que um prato, ela proporciona uma experiência totalmente nova. E o melhor: em poucos minutos.",
       "ingredient": "peito de frango sem antibiótico, mostarda amarela, mel orgânico, azeite extra virgem, sal, páprica doce, salsinha orgânica, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["186.00 kcal", "10 %"],
-        "carboidratos": ["4.90 g", "2 %"],
-        "proteinas": ["26.00 g", "35 %"],
-        "gorduras_totais": ["7.00 g", "13 %"],
-        "gorduras_saturada": ["1.90 g", "9 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.50 g", "2 %"],
-        "sodio": ["394.00 mg", "17 %"]
+        "valor_energetico": [
+          "186.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "4.90 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "26.00 g",
+          "35 %"
+        ],
+        "gorduras_totais": [
+          "7.00 g",
+          "13 %"
+        ],
+        "gorduras_saturada": [
+          "1.90 g",
+          "9 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.50 g",
+          "2 %"
+        ],
+        "sodio": [
+          "394.00 mg",
+          "17 %"
+        ]
       },
       "category": "frangos"
     },
@@ -441,18 +941,45 @@
       "title": "Bobó de cogumelo e palmito da Bela Gil",
       "weight": "150g",
       "price": "R$ 13,50",
-      "tags": ["vegetariano", "só vegetais"],
+      "tags": [
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "O Bobó é um prato típico baiano que já conquistou o Brasil todo.\nA nossa versão é uma releitura vegetariana, foi criada junto com a Chef Bela Gil, e leva cogumelos Paris e palmito Pupunha temperados no azeite de dendê, coentro e pimenta biquinho.\nNo molho, mandioca bem macia ao leite de coco fresco e limão Tahiti. Um prato super cremoso e nutritivo, que combina com qualquer ocasião. Ficou com água na boca? Vem provar.",
       "ingredient": "mandioca, cogumelo paris, palmito pupunha em cubos , leite de coco, cebola orgânica, azeite de dendê, sal, azeite extra virgem, coentro, limão tahiti orgânico, pimenta biquinho, alho.",
       "valueNutri": {
-        "valor_energetico": ["138.00 kcal", "7 %"],
-        "carboidratos": ["23.00 g", "8 %"],
-        "proteinas": ["2.40 g", "4 %"],
-        "gorduras_totais": ["4.00 g", "8 %"],
-        "gorduras_saturada": ["1.90 g", "9 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.40 g", "10 %"],
-        "sodio": ["282.00 mg", "12 %"]
+        "valor_energetico": [
+          "138.00 kcal",
+          "7 %"
+        ],
+        "carboidratos": [
+          "23.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "2.40 g",
+          "4 %"
+        ],
+        "gorduras_totais": [
+          "4.00 g",
+          "8 %"
+        ],
+        "gorduras_saturada": [
+          "1.90 g",
+          "9 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.40 g",
+          "10 %"
+        ],
+        "sodio": [
+          "282.00 mg",
+          "12 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -462,18 +989,45 @@
       "title": "Bolinho de arroz integral da Bela Gil",
       "weight": "100g",
       "price": "R$ 8,50",
-      "tags": ["vegetariano", "só vegetais"],
+      "tags": [
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "A hora do lanche fica ainda mais feliz com nossos bolinhos de arroz.\nSaudável e saborosa, esta receita foi criada junto com a chef Bela Gil e leva poucos ingredientes, com destaque para a folha de louro, que dá um tempero especial.\nÉ sucesso na certa.",
       "ingredient": "arroz cateto integral, cebola orgânica, cenoura, semente de girassol, molho shoyu, salsinha orgânica, óleo de gergelim, alho, sal, azeite extra virgem, tomilho , louro.",
       "valueNutri": {
-        "valor_energetico": ["241.00 kcal", "13 %"],
-        "carboidratos": ["40.00 g", "14 %"],
-        "proteinas": ["5.40 g", "8 %"],
-        "gorduras_totais": ["6.60 g", "12 %"],
-        "gorduras_saturada": ["1.50 g", "7 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.40 g", "10 %"],
-        "sodio": ["476.00 mg", "20 %"]
+        "valor_energetico": [
+          "241.00 kcal",
+          "13 %"
+        ],
+        "carboidratos": [
+          "40.00 g",
+          "14 %"
+        ],
+        "proteinas": [
+          "5.40 g",
+          "8 %"
+        ],
+        "gorduras_totais": [
+          "6.60 g",
+          "12 %"
+        ],
+        "gorduras_saturada": [
+          "1.50 g",
+          "7 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.40 g",
+          "10 %"
+        ],
+        "sodio": [
+          "476.00 mg",
+          "20 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -487,14 +1041,38 @@
       "description": "Esse arroz com brócolis e castanha do Pará vai muito além de simples acompanhamento de um prato, tantas são as suas qualidades.\nÉ preparado na cozinha da Liv Up com brócolis triturado e pedaços de deliciosas e crocantes castanhas torradas, temperado com cebola fresca, salsinha, alho areia, azeite e um toque de limão tahiti.\nAlém de saboroso e nutritivo, atende com perfeição às dietas low carb e é feito somente com produtos 100% naturais, 100% saudáveis",
       "ingredient": "brócolis, cebola orgânica, castanha do pará, salsinha orgânica, azeite extra virgem, limão tahiti orgânico, alho desidratado, sal.",
       "valueNutri": {
-        "valor_energetico": ["96.00 kcal", "5 %"],
-        "carboidratos": ["6.10 g", "3 %"],
-        "proteinas": ["2.90 g", "4 %"],
-        "gorduras_totais": ["6.70 g", "13 %"],
-        "gorduras_saturada": ["0.30 g", "2 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["3.20 g", "13 %"],
-        "sodio": ["185.00 mg", "8 %"]
+        "valor_energetico": [
+          "96.00 kcal",
+          "5 %"
+        ],
+        "carboidratos": [
+          "6.10 g",
+          "3 %"
+        ],
+        "proteinas": [
+          "2.90 g",
+          "4 %"
+        ],
+        "gorduras_totais": [
+          "6.70 g",
+          "13 %"
+        ],
+        "gorduras_saturada": [
+          "0.30 g",
+          "2 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "3.20 g",
+          "13 %"
+        ],
+        "sodio": [
+          "185.00 mg",
+          "8 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -504,18 +1082,44 @@
       "title": "Camarão ao Leite de Coco e Curry",
       "weight": "110g",
       "price": "R$ 18,90",
-      "tags": ["contém lactose"],
+      "tags": [
+        "contém lactose"
+      ],
       "description": "O camarão ao leite de coco e curry é uma receita muito saborosa e inspirada na cozinha tailandesa.\nÉ quente, cheia de tempero e super saudável.\nO tomate, o dendê e o curry verde em pasta dão ainda mais cor ao camarão e rendem um molho bem saboroso. O leite de coco tem gosto adocicado e entra para equilibrar a pasta de curry verde que é levemente picante. Para deixar tudo ainda mais delicioso, adicionamos vários temperinhos naturais bem suaves. Experimente com Arroz jasmim com castanha de caju e cebolinha ou deixe sua criatividade te levar!",
       "ingredient": "camarão, cebola orgânica, leite de coco, tomate orgânico, batata inglesa, sal, limão tahiti orgânico, azeite de dendê, salsinha orgânica, pasta de curry verde.",
       "valueNutri": {
-        "valor_energetico": ["66.00 kcal", "4 %"],
-        "carboidratos": ["4.20 g", "2 %"],
-        "proteinas": ["6.10 g", "9 %"],
-        "gorduras_totais": ["2.80 g", "6 %"],
-        "gorduras_saturada": ["1.60 g", "8 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.00 g", "4 %"],
-        "sodio": ["338.00 mg", "15 %"]
+        "valor_energetico": [
+          "66.00 kcal",
+          "4 %"
+        ],
+        "carboidratos": [
+          "4.20 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "6.10 g",
+          "9 %"
+        ],
+        "gorduras_totais": [
+          "2.80 g",
+          "6 %"
+        ],
+        "gorduras_saturada": [
+          "1.60 g",
+          "8 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.00 g",
+          "4 %"
+        ],
+        "sodio": [
+          "338.00 mg",
+          "15 %"
+        ]
       },
       "category": "peixes e frutos do mar"
     },
@@ -525,18 +1129,46 @@
       "title": "Curry de grão de bico com legumes da Bela Gil",
       "weight": "150g",
       "price": "R$ 13,50",
-      "tags": ["contém nuts", "vegetariano", "só vegetais"],
+      "tags": [
+        "contém nuts",
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "O curry é um prato típico indiano, mas essa versão vegetariana foi criada na nossa cozinha, junto com a Chef Bela Gil.\nAqui, além do curry, você também encontra cominho, cúrcuma e gengibre completando o time das especiarias.\nUma receita exótica e cheia de sabores.",
       "ingredient": "leite de coco, grão de bico , abobrinha orgânica, abóbora japonesa orgânica, tomate orgânico, cebola orgânica, castanha de caju, azeite extra virgem, gengibre orgânico, açúcar mascavo, alho, sal, coentro, curry em pó, cúrcuma, pimenta calabresa, cominho.",
       "valueNutri": {
-        "valor_energetico": ["205.00 kcal", "11 %"],
-        "carboidratos": ["22.00 g", "8 %"],
-        "proteinas": ["7.20 g", "10 %"],
-        "gorduras_totais": ["9.80 g", "18 %"],
-        "gorduras_saturada": ["4.30 g", "20 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["5.50 g", "22 %"],
-        "sodio": ["231.00 mg", "10 %"]
+        "valor_energetico": [
+          "205.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "22.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "7.20 g",
+          "10 %"
+        ],
+        "gorduras_totais": [
+          "9.80 g",
+          "18 %"
+        ],
+        "gorduras_saturada": [
+          "4.30 g",
+          "20 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "5.50 g",
+          "22 %"
+        ],
+        "sodio": [
+          "231.00 mg",
+          "10 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -546,18 +1178,44 @@
       "title": "Estrogonofe de cogumelo",
       "weight": "120g",
       "price": "R$ 12,90",
-      "tags": ["vegetariano"],
+      "tags": [
+        "vegetariano"
+      ],
       "description": "O estrogonofe é uma receita de origem russa, que é favorito de muitos aqui no Brasil, com algumas modificações no prato.\nNessa receita, usamos como ingrediente principal o cogumelo Paris fresco.\nO resultado ficou super saboroso, sem nenhuma carne. Usamos como base do nosso molho, o creme de leite sem lactose e vegetais orgânicos (cenoura, cebola, tomate) para trazer a cor e sabor característico do estrogonofe.É super leve, e muito delicioso! Combine com arroz, legumes ou algumas de nossas deliciosas batatinhas e será sucesso na certa!",
       "ingredient": "cogumelo paris, tomate orgânico, creme de leite sem lactose, azeite extra virgem, sal, alho.",
       "valueNutri": {
-        "valor_energetico": ["181.00 kcal", "10 %"],
-        "carboidratos": ["7.20 g", "3 %"],
-        "proteinas": ["4.00 g", "6 %"],
-        "gorduras_totais": ["15.00 g", "28 %"],
-        "gorduras_saturada": ["6.50 g", "30 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.50 g", "6 %"],
-        "sodio": ["247.00 mg", "11 %"]
+        "valor_energetico": [
+          "181.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "7.20 g",
+          "3 %"
+        ],
+        "proteinas": [
+          "4.00 g",
+          "6 %"
+        ],
+        "gorduras_totais": [
+          "15.00 g",
+          "28 %"
+        ],
+        "gorduras_saturada": [
+          "6.50 g",
+          "30 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.50 g",
+          "6 %"
+        ],
+        "sodio": [
+          "247.00 mg",
+          "11 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -567,18 +1225,45 @@
       "title": "Falafel",
       "weight": "110g",
       "price": "R$ 8,50",
-      "tags": ["vegetariano", "só vegetais"],
+      "tags": [
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "O falafel é um bolinho de grão de bico típico do Oriente Médio que faz sucesso em todo lugar.\nNossa versão não é frita, como a receita original, e leva farinha de arroz, ao invés da farinha de trigo, pra dar liga com mais leveza.\nAlém disso, só usamos temperos naturais, que deixam sua refeição mais saudável e saborosa. Tradicionalmente, o falafel é servido dentro do pão sírio com salada, tahine ou molhos picantes, mas você pode comer como quiser - inclusive em substituição à carne, já que é uma proteína vegetariana. Que tal experimentar?",
       "ingredient": "grão de bico , cebola orgânica, salsinha orgânica, azeite extra virgem, farinha de arroz integral, alho, sal, cominho, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["267.00 kcal", "14 %"],
-        "carboidratos": ["35.00 g", "12 %"],
-        "proteinas": ["11.00 g", "15 %"],
-        "gorduras_totais": ["9.00 g", "17 %"],
-        "gorduras_saturada": ["1.40 g", "7 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["7.30 g", "30 %"],
-        "sodio": ["370.00 mg", "16 %"]
+        "valor_energetico": [
+          "267.00 kcal",
+          "14 %"
+        ],
+        "carboidratos": [
+          "35.00 g",
+          "12 %"
+        ],
+        "proteinas": [
+          "11.00 g",
+          "15 %"
+        ],
+        "gorduras_totais": [
+          "9.00 g",
+          "17 %"
+        ],
+        "gorduras_saturada": [
+          "1.40 g",
+          "7 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "7.30 g",
+          "30 %"
+        ],
+        "sodio": [
+          "370.00 mg",
+          "16 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -588,18 +1273,44 @@
       "title": "Feijão Preto",
       "weight": "110g",
       "price": "R$ 6,50",
-      "tags": ["só vegetais"],
+      "tags": [
+        "só vegetais"
+      ],
       "description": "O feijão preto é o mais consumido no Rio de Janeiro e em alguns outros estados.\nMas cai super bem no prato de qualquer brasileiro para variar o tipo de feijão.\nBase da cozinha brasileira, o feijão é muito mais gostoso quando é feito com temperos naturais, de forma caseira. Do jeitinho que fazemos! Só colocamos ervas, ingredientes frescos e azeite no tempero do nosso feijão. É ótimo para acompanhar carnes, ou qualquer outro prato para quem não abre mão do feijão. Também é sucesso na comida vegetarianas, porque os feijões são os melhores para substituir um bife.",
       "ingredient": "feijão preto, cebola orgânica, alho, salsinha orgânica, cebolinha orgânica, azeite extra virgem, sal, pimenta do reino, louro.",
       "valueNutri": {
-        "valor_energetico": ["104.00 kcal", "6 %"],
-        "carboidratos": ["18.00 g", "6 %"],
-        "proteinas": ["6.20 g", "9 %"],
-        "gorduras_totais": ["1.00 g", "2 %"],
-        "gorduras_saturada": ["0.20 g", "1 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["6.30 g", "26 %"],
-        "sodio": ["194.00 mg", "9 %"]
+        "valor_energetico": [
+          "104.00 kcal",
+          "6 %"
+        ],
+        "carboidratos": [
+          "18.00 g",
+          "6 %"
+        ],
+        "proteinas": [
+          "6.20 g",
+          "9 %"
+        ],
+        "gorduras_totais": [
+          "1.00 g",
+          "2 %"
+        ],
+        "gorduras_saturada": [
+          "0.20 g",
+          "1 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "6.30 g",
+          "26 %"
+        ],
+        "sodio": [
+          "194.00 mg",
+          "9 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -609,18 +1320,45 @@
       "title": "Feijoada Vegetariana",
       "weight": "200g",
       "price": "R$ 13,50",
-      "tags": ["vegetariano", "só vegetais"],
+      "tags": [
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "O tempo de comer feijoada e depois passar o dia com sono já passou.\nNossa feijuca dá aquele conforto de comida feita em casa, mas com a leveza dos vegetais.\nO feijão macio é complementado pelo cogumelo e pela berinjela. Até a famosa PANC (planta alimentícia não convencional) ora-pro-nobis deu as caras nessa receita. Combine com nossa farofa com couve e sinta a mágica acontecer.",
       "ingredient": "berinjela orgânica, cogumelo paris, feijão preto, batata doce orgânica, cebola orgânica, azeite extra virgem, ora pro nóbis, cebolinha orgânica, alho, sal, salsinha orgânica, páprica defumada, cebola em pó, alho em pó, louro em pó, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["168.00 kcal", "9 %"],
-        "carboidratos": ["22.00 g", "8 %"],
-        "proteinas": ["6.50 g", "9 %"],
-        "gorduras_totais": ["6.20 g", "12 %"],
-        "gorduras_saturada": ["1.00 g", "5 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["7.00 g", "28 %"],
-        "sodio": ["359.00 mg", "15 %"]
+        "valor_energetico": [
+          "168.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "22.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "6.50 g",
+          "9 %"
+        ],
+        "gorduras_totais": [
+          "6.20 g",
+          "12 %"
+        ],
+        "gorduras_saturada": [
+          "1.00 g",
+          "5 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "7.00 g",
+          "28 %"
+        ],
+        "sodio": [
+          "359.00 mg",
+          "15 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -630,18 +1368,44 @@
       "title": "Grão de Bico",
       "weight": "110g",
       "price": "R$ 7,50",
-      "tags": ["só vegetais"],
+      "tags": [
+        "só vegetais"
+      ],
       "description": "O grão de bico é uma leguminosa, mesmo tipo de alimento que o feijão.\nPortanto, serve para substituir o nosso feijãozinho de sempre.\nÉ super gostoso, nutritivo e versátil. Rico em fibras, proteinas vegetais e vitaminas do complexo B e magnésio - nutrientes importantes para relaxar. Aqui, nosso grão de bico é apenas cozido e temperado com ingredientes frescos. Usamos tomate, cebola, salsinha, sal, azeite e pimenta do reino, além do limão siciliano que dá um toque especial e traz acidez para a receita, equilibrando os sabores. Cai muito bem em pratos vegetarianos, além de acompanhar qualquer receita com frango.",
       "ingredient": "grão de bico, tomate orgânico, cebola orgânica, limão tahiti orgânico, salsinha orgânica, azeite extra virgem, sal, pimenta do reino.",
       "valueNutri": {
-        "valor_energetico": ["163.00 kcal", "9 %"],
-        "carboidratos": ["25.00 g", "9 %"],
-        "proteinas": ["8.80 g", "12 %"],
-        "gorduras_totais": ["3.10 g", "6 %"],
-        "gorduras_saturada": ["0.50 g", "3 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["5.30 g", "22 %"],
-        "sodio": ["120.00 mg", "5 %"]
+        "valor_energetico": [
+          "163.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "25.00 g",
+          "9 %"
+        ],
+        "proteinas": [
+          "8.80 g",
+          "12 %"
+        ],
+        "gorduras_totais": [
+          "3.10 g",
+          "6 %"
+        ],
+        "gorduras_saturada": [
+          "0.50 g",
+          "3 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "5.30 g",
+          "22 %"
+        ],
+        "sodio": [
+          "120.00 mg",
+          "5 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -651,18 +1415,46 @@
       "title": "Hambúrguer de ervilha com hortelã",
       "weight": "110g",
       "price": "R$ 9,50",
-      "tags": ["contém glúten", "vegetariano", "só vegetais"],
+      "tags": [
+        "contém glúten",
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "Uma ótima opção de hambúrguer vegano que vai bem com vários tipos de acompanhamento.\nNosso hambúrguer à base de ervilha, tem uma textura super macia, deliciosa.\nTem o sabor super especial da hortelã, tempero especial, refrescante, que combina muito bem com a ervilha. É uma boa fonte de fibras e uma super opção de proteína vegetal. Pode colocar no pão, ou comer com arroz, legumes, cuscuz marroquino. Uma opção gostosa, uma refeição que não pesa. :)",
       "ingredient": "ervilha, cebola roxa orgânica, farinha de aveia, hortelã orgânica, sal, pimenta do reino.",
       "valueNutri": {
-        "valor_energetico": ["113.00 kcal", "6 %"],
-        "carboidratos": ["18.00 g", "6 %"],
-        "proteinas": ["7.40 g", "10 %"],
-        "gorduras_totais": ["1.10 g", "3 %"],
-        "gorduras_saturada": ["0.20 g", "1 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["6.30 g", "26 %"],
-        "sodio": ["215.00 mg", "9 %"]
+        "valor_energetico": [
+          "113.00 kcal",
+          "6 %"
+        ],
+        "carboidratos": [
+          "18.00 g",
+          "6 %"
+        ],
+        "proteinas": [
+          "7.40 g",
+          "10 %"
+        ],
+        "gorduras_totais": [
+          "1.10 g",
+          "3 %"
+        ],
+        "gorduras_saturada": [
+          "0.20 g",
+          "1 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "6.30 g",
+          "26 %"
+        ],
+        "sodio": [
+          "215.00 mg",
+          "9 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -672,18 +1464,44 @@
       "title": "Hambúrguer de cogumelo paris",
       "weight": "110g",
       "price": "R$ 11,50",
-      "tags": ["só vegetais"],
+      "tags": [
+        "só vegetais"
+      ],
       "description": "Nosso hambúrguer de cogumelo é macio e muito suculento.\nCebola, salsinha e alho garantem um sabor todo especial.\nOs cogumelos paris são o destaque do prato, com sabor bem presente, e o feijão fradinho garante as proteinas dessa receita, fazendo dela uma ótima opção pra substituir o tradicional hambúrguer de carne.",
       "ingredient": "cogumelo paris, semente de girassol, feijão fradinho, fécula de batata, cebola orgânica, farinha de mandioca bijú, salsinha orgânica, farinha de banana, sal, alho.",
       "valueNutri": {
-        "valor_energetico": ["223.00 kcal", "12 %"],
-        "carboidratos": ["21.00 g", "7 %"],
-        "proteinas": ["9.00 g", "12 %"],
-        "gorduras_totais": ["12.00 g", "22 %"],
-        "gorduras_saturada": ["1.10 g", "6 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["3.30 g", "14 %"],
-        "sodio": ["261.00 mg", "11 %"]
+        "valor_energetico": [
+          "223.00 kcal",
+          "12 %"
+        ],
+        "carboidratos": [
+          "21.00 g",
+          "7 %"
+        ],
+        "proteinas": [
+          "9.00 g",
+          "12 %"
+        ],
+        "gorduras_totais": [
+          "12.00 g",
+          "22 %"
+        ],
+        "gorduras_saturada": [
+          "1.10 g",
+          "6 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "3.30 g",
+          "14 %"
+        ],
+        "sodio": [
+          "261.00 mg",
+          "11 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -693,18 +1511,44 @@
       "title": "Moqueca de peixe",
       "weight": "170g",
       "price": "R$ 16,90",
-      "tags": ["contém lactose"],
+      "tags": [
+        "contém lactose"
+      ],
       "description": "A moqueca é uma receita tradicional brasileira que leva legumes, leite de coco, azeite de dendê e filé de peixe.\nNossa versão leva somente os melhores ingredientes, 100% naturais, sem aditivos, corantes nem conservantes.\nCombina muito com arroz, que absorve o caldo e o sabor dessa receita deliciosa.",
       "ingredient": "filé de saint peter, tomate orgânico, cebola orgânica, pimentão amarelo orgânico, leite de coco, alho, azeite extra virgem, sal, limão tahiti orgânico, azeite de dendê, salsinha orgânica, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["163.00 kcal", "9 %"],
-        "carboidratos": ["5.90 g", "2 %"],
-        "proteinas": ["23.00 g", "31 %"],
-        "gorduras_totais": ["5.40 g", "10 %"],
-        "gorduras_saturada": ["2.10 g", "10 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.40 g", "6 %"],
-        "sodio": ["358.00 mg", "15 %"]
+        "valor_energetico": [
+          "163.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "5.90 g",
+          "2 %"
+        ],
+        "proteinas": [
+          "23.00 g",
+          "31 %"
+        ],
+        "gorduras_totais": [
+          "5.40 g",
+          "10 %"
+        ],
+        "gorduras_saturada": [
+          "2.10 g",
+          "10 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.40 g",
+          "6 %"
+        ],
+        "sodio": [
+          "358.00 mg",
+          "15 %"
+        ]
       },
       "category": "peixes e frutos do mar"
     },
@@ -718,14 +1562,38 @@
       "description": "Saint Peter é um peixe saboroso, saudável e que não dá aquele trabalhão pra comer.\nNa nossa receita, ele leva cebolinha e gengibre, por isso é bastante aromático.\nMacio e molhadinho na medida certa, além de bem fresco, é a proteína ideal pra combinar com arroz, massa e saladas também.",
       "ingredient": "filé de saint peter, cebolinha orgânica, cebola orgânica, azeite extra virgem, limão tahiti orgânico, sal, gengibre orgânico.",
       "valueNutri": {
-        "valor_energetico": ["173.00 kcal", "9 %"],
-        "carboidratos": ["1.50 g", "1 %"],
-        "proteinas": ["23.00 g", "31 %"],
-        "gorduras_totais": ["8.40 g", "16 %"],
-        "gorduras_saturada": ["1.70 g", "8 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.50 g", "2 %"],
-        "sodio": ["287.00 mg", "12 %"]
+        "valor_energetico": [
+          "173.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "1.50 g",
+          "1 %"
+        ],
+        "proteinas": [
+          "23.00 g",
+          "31 %"
+        ],
+        "gorduras_totais": [
+          "8.40 g",
+          "16 %"
+        ],
+        "gorduras_saturada": [
+          "1.70 g",
+          "8 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.50 g",
+          "2 %"
+        ],
+        "sodio": [
+          "287.00 mg",
+          "12 %"
+        ]
       },
       "category": "peixes e frutos do mar"
     },
@@ -735,18 +1603,45 @@
       "title": "Saint peter com ervas e amêndoas",
       "weight": "110g",
       "price": "R$ 16,90",
-      "tags": ["contém lactose", "contém nuts"],
+      "tags": [
+        "contém lactose",
+        "contém nuts"
+      ],
       "description": "O saint peter é um tipo de tilápia vermelha super consumido no Brasil.\nNessa receita, aparece numa versão super aromática e saborosa.\nCoberto com amêndoas, que trazem crocância e combinam bastante com o prato, e também ervas de provence, uma mistura de ervas típica da Franca. É um tempero delicioso para os filés de peixe, que ficam com um aroma irresistível, e ainda, super natural! Combine com arroz, risoto, legumes ou nosso purê que vai ficar incrível.",
       "ingredient": "filé de saint peter, amêndoa laminada, azeite extra virgem, sal, ervas finas (manjericão, salsa, tomilho, cebolinha e manjerona).",
       "valueNutri": {
-        "valor_energetico": ["233.00 kcal", "12 %"],
-        "carboidratos": ["2.80 g", "1 %"],
-        "proteinas": ["32.00 g", "43 %"],
-        "gorduras_totais": ["10.00 g", "19 %"],
-        "gorduras_saturada": ["1.60 g", "8 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.70 g", "7 %"],
-        "sodio": ["246.00 mg", "11 %"]
+        "valor_energetico": [
+          "233.00 kcal",
+          "12 %"
+        ],
+        "carboidratos": [
+          "2.80 g",
+          "1 %"
+        ],
+        "proteinas": [
+          "32.00 g",
+          "43 %"
+        ],
+        "gorduras_totais": [
+          "10.00 g",
+          "19 %"
+        ],
+        "gorduras_saturada": [
+          "1.60 g",
+          "8 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.70 g",
+          "7 %"
+        ],
+        "sodio": [
+          "246.00 mg",
+          "11 %"
+        ]
       },
       "category": "peixes e frutos do mar"
     },
@@ -760,14 +1655,38 @@
       "description": "Saudável, nutritivo e delicioso.\nNosso quibe de abóbora é uma surpresa deliciosa pra todo mundo, dos que amam o ingrediente ou aqueles que nem imaginam o quanto essa receita pode ser gostosa.\nNozes, tahine de limão e temperos que fazem desse quibe de abóbora uma ótima opção para um lanchinho versátil e saboroso, ficando pronto em 2 minutinhos pra compartilhar com quem estiver junto. Nesta versão, o quibe de abóbora vem em embalagem com 8 unidades.",
       "ingredient": "abóbora japonesa orgânica, trigo para quibe, aveia em flocos, nozes, limão tahiti orgânico, tahine, cebola orgânica, hortelã orgânica, sal, salsinha orgânica, pimenta síria.",
       "valueNutri": {
-        "valor_energetico": ["190.00 kcal", "10 %"],
-        "carboidratos": ["24.00 g", "8 %"],
-        "proteinas": ["5.90 g", "8 %"],
-        "gorduras_totais": ["7.80 g", "15 %"],
-        "gorduras_saturada": ["1.00 g", "5 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["4.40 g", "18 %"],
-        "sodio": ["331.00 mg", "14 %"]
+        "valor_energetico": [
+          "190.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "24.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "5.90 g",
+          "8 %"
+        ],
+        "gorduras_totais": [
+          "7.80 g",
+          "15 %"
+        ],
+        "gorduras_saturada": [
+          "1.00 g",
+          "5 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "4.40 g",
+          "18 %"
+        ],
+        "sodio": [
+          "331.00 mg",
+          "14 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -781,14 +1700,38 @@
       "description": "O molho de maracujá deixa o peixe mais suculento sem perder a firmeza e traz um sabor cítrico que é a cara do verão.\nO salmão ganha um toque agridoce que dá mais vida para o prato.\nCombina com todo tipo de arroz e também vai super bem com uma salada fresca de folhas.",
       "ingredient": "salmão, polpa de maracujá, cebola orgânica, açúcar demerara, suco de laranja pasteurizado, sal rosa.",
       "valueNutri": {
-        "valor_energetico": ["299.00 kcal", "15 %"],
-        "carboidratos": ["12.00 g", "4 %"],
-        "proteinas": ["28.00 g", "38 %"],
-        "gorduras_totais": ["15.00 g", "28 %"],
-        "gorduras_saturada": ["4.30 g", "20 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.40 g", "2 %"],
-        "sodio": ["336.00 mg", "14 %"]
+        "valor_energetico": [
+          "299.00 kcal",
+          "15 %"
+        ],
+        "carboidratos": [
+          "12.00 g",
+          "4 %"
+        ],
+        "proteinas": [
+          "28.00 g",
+          "38 %"
+        ],
+        "gorduras_totais": [
+          "15.00 g",
+          "28 %"
+        ],
+        "gorduras_saturada": [
+          "4.30 g",
+          "20 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.40 g",
+          "2 %"
+        ],
+        "sodio": [
+          "336.00 mg",
+          "14 %"
+        ]
       },
       "category": "peixes e frutos do mar"
     },
@@ -802,14 +1745,38 @@
       "description": "O salmão é um peixe que faz muito sucesso porque tem esse sabor único, é colorido, além de ser grande e ter mais gordura (ômega 3), por isso, fica bem macio e suculento.\nAssamos nossas postas de salmão, que são filés altos e tenros, apenas com sal rosa.\nAfinal, o salmão não precisa de mais nada para ficar maravilhoso. Combine com um belo risoto, ou até mesmo arroz e legumes e se delicie!",
       "ingredient": "salmão, sal.",
       "valueNutri": {
-        "valor_energetico": ["250.00 kcal", "13 %"],
-        "carboidratos": ["0.00 g", "0 %"],
-        "proteinas": ["28.00 g", "38 %"],
-        "gorduras_totais": ["15.00 g", "28 %"],
-        "gorduras_saturada": ["4.30 g", "20 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.00 g", "0 %"],
-        "sodio": ["270.00 mg", "12 %"]
+        "valor_energetico": [
+          "250.00 kcal",
+          "13 %"
+        ],
+        "carboidratos": [
+          "0.00 g",
+          "0 %"
+        ],
+        "proteinas": [
+          "28.00 g",
+          "38 %"
+        ],
+        "gorduras_totais": [
+          "15.00 g",
+          "28 %"
+        ],
+        "gorduras_saturada": [
+          "4.30 g",
+          "20 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.00 g",
+          "0 %"
+        ],
+        "sodio": [
+          "270.00 mg",
+          "12 %"
+        ]
       },
       "category": "peixes e frutos do mar"
     },
@@ -823,14 +1790,38 @@
       "description": "Nosso hambúrguer de salmão é simples e delicioso como toda receita deveria ser.\nO sabor único do salmão fica bem destacado, peixe que faz o maior sucesso por ser suculento, além de ter essa cor maravilhosa, que alegra qualquer prato.\nA receita não leva nada além de salmão, temperinhos verdes e sal. É uma proteína deliciosa para montar um sanduíche bem diferentão ou comer no prato com arroz, risotos, legumes, lentilha. Até puro fica sensacional!",
       "ingredient": "filé de salmão, cebola orgânica, salsinha orgânica, cebolinha orgânica, sal, azeite extra virgem.",
       "valueNutri": {
-        "valor_energetico": ["195.00 kcal", "10 %"],
-        "carboidratos": ["2.20 g", "1 %"],
-        "proteinas": ["22.00 g", "30 %"],
-        "gorduras_totais": ["11.00 g", "20 %"],
-        "gorduras_saturada": ["2.80 g", "13 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.50 g", "2 %"],
-        "sodio": ["309.00 mg", "13 %"]
+        "valor_energetico": [
+          "195.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "2.20 g",
+          "1 %"
+        ],
+        "proteinas": [
+          "22.00 g",
+          "30 %"
+        ],
+        "gorduras_totais": [
+          "11.00 g",
+          "20 %"
+        ],
+        "gorduras_saturada": [
+          "2.80 g",
+          "13 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.50 g",
+          "2 %"
+        ],
+        "sodio": [
+          "309.00 mg",
+          "13 %"
+        ]
       },
       "category": "peixes e frutos do mar"
     },
@@ -840,18 +1831,44 @@
       "title": "Risoto de Palmito Pupunha",
       "weight": "150g",
       "price": "R$ 10,50",
-      "tags": ["contém lactose"],
+      "tags": [
+        "contém lactose"
+      ],
       "description": "Feito com arroz arbóreo, que fica bem cremoso, esse risoto tem um sabor delicado, que vai bem sozinho, mas também te deixa livre pra abusar das combinações.\nO aroma do parmesão já dá água na boca, mas não toma conta do prato, e os cubos do coração do palmito, além de um toque agridoce bem suave, dão um reforço na cremosidade do prato.\nSimplesmente perfeito pra incluir na rotina ou caprichar no empratamento pra servir em ocasiões especiais.",
       "ingredient": "palmito pupunha em cubos , arroz arbóreo, cebola orgânica, queijo parmesão, azeite extra virgem, abobrinha orgânica, manteiga, alho-poró orgânico, cenoura, salsinha orgânica, sal, pimenta do reino.",
       "valueNutri": {
-        "valor_energetico": ["199.00 kcal", "10 %"],
-        "carboidratos": ["30.00 g", "10 %"],
-        "proteinas": ["6.90 g", "10 %"],
-        "gorduras_totais": ["5.60 g", "11 %"],
-        "gorduras_saturada": ["2.50 g", "12 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.40 g", "6 %"],
-        "sodio": ["267.00 mg", "12 %"]
+        "valor_energetico": [
+          "199.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "30.00 g",
+          "10 %"
+        ],
+        "proteinas": [
+          "6.90 g",
+          "10 %"
+        ],
+        "gorduras_totais": [
+          "5.60 g",
+          "11 %"
+        ],
+        "gorduras_saturada": [
+          "2.50 g",
+          "12 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.40 g",
+          "6 %"
+        ],
+        "sodio": [
+          "267.00 mg",
+          "12 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -861,18 +1878,47 @@
       "title": "Ravioli integral de mussarela de búfala",
       "weight": "160g",
       "price": "R$ 15,50",
-      "tags": ["contém glúten", "contém lactose", "contém ovos", "vegetariano"],
+      "tags": [
+        "contém glúten",
+        "contém lactose",
+        "contém ovos",
+        "vegetariano"
+      ],
       "description": "Comida prática não é nem um pouco sem graça, e esta massa é a maior prova disso.\nNosso ravioli caseiro é feito com espinafre e farinha integral na massa, fornecendo fibras, vitaminas e minerais, além de muito sabor.\nO recheio de mussarela de búfala é leve e combina perfeitamente, além de oferecer proteinas e cálcio. Combine com o nosso delicioso molho de tomates, que é cozido lentamente, ou qualquer outro de sua preferência.",
       "ingredient": "Farinha de trigo branca, mussarela de búfala, farinha de trigo integral, ricota, espinafre, ovo em pó, manjericão e sal",
       "valueNutri": {
-        "valor_energetico": ["482.90 kcal", "25 %"],
-        "carboidratos": ["58.90 g", "20 %"],
-        "proteinas": ["25.10 g", "34 %"],
-        "gorduras_totais": ["16.30 g", "30 %"],
-        "gorduras_saturada": ["11.00 g", "50 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["3.70 g", "15 %"],
-        "sodio": ["352.80 mg", "15 %"]
+        "valor_energetico": [
+          "482.90 kcal",
+          "25 %"
+        ],
+        "carboidratos": [
+          "58.90 g",
+          "20 %"
+        ],
+        "proteinas": [
+          "25.10 g",
+          "34 %"
+        ],
+        "gorduras_totais": [
+          "16.30 g",
+          "30 %"
+        ],
+        "gorduras_saturada": [
+          "11.00 g",
+          "50 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "3.70 g",
+          "15 %"
+        ],
+        "sodio": [
+          "352.80 mg",
+          "15 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -892,14 +1938,38 @@
       "description": "Se você é daqueles que adora misturar doce com salgado, esse ravioli é uma ótima pedida.\nMas se essa não é muito sua praia, essa massa também é pra você! É que a pera, responsável por adoçar o paladar, aparece sem chamar muita atenção - equilíbrio puro.\nO mesmo vale para o queijo gorgonzola, que costuma ser muito forte: nesse prato, nossa cozinha fez mágica e chegou num resultado super suave. Outros queijos ainda incrementam a receita, que leva nozes pra arrematar. Quer uma dica? Aqueça a porção no fogão, pra deixar a massa mais úmida e soltinha, e aproveite!",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, ricota fresca, queijo tipo gorgonzola, pera, ovo integral pasteurizado, nozes, açúcar, queijo mussarela, beterraba em pó, suco de limão e sal.",
       "valueNutri": {
-        "valor_energetico": ["433.00 kcal", "22 %"],
-        "carboidratos": ["60.00 g", "20 %"],
-        "proteinas": ["19.00 g", "26 %"],
-        "gorduras_totais": ["13.00 g", "24 %"],
-        "gorduras_saturada": ["5.00 g", "23 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.90 g", "12 %"],
-        "sodio": ["398.00 mg", "17 %"]
+        "valor_energetico": [
+          "433.00 kcal",
+          "22 %"
+        ],
+        "carboidratos": [
+          "60.00 g",
+          "20 %"
+        ],
+        "proteinas": [
+          "19.00 g",
+          "26 %"
+        ],
+        "gorduras_totais": [
+          "13.00 g",
+          "24 %"
+        ],
+        "gorduras_saturada": [
+          "5.00 g",
+          "23 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.90 g",
+          "12 %"
+        ],
+        "sodio": [
+          "398.00 mg",
+          "17 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -909,18 +1979,46 @@
       "title": "Quibe de abóbora",
       "weight": "100g",
       "price": "R$ 8,90",
-      "tags": ["contém glúten", "contém nuts", "só vegetais"],
+      "tags": [
+        "contém glúten",
+        "contém nuts",
+        "só vegetais"
+      ],
       "description": "As nozes, a combinação de tahine com limão e os temperos desse quibe fazem dele um lanche versátil e super saboroso que fica pronto em menos de 2 minutos.\nCabe na pausa do trabalho, nas tardes preguiçosas de domingo e também nas suas refeições com acompanhamento de um arroz e uma salada mista, por exemplo.",
       "ingredient": "abóbora japonesa orgânica, trigo para quibe, aveia em flocos, nozes, limão tahiti orgânico, tahine, cebola orgânica, hortelã orgânica, sal, salsinha orgânica, pimenta síria.",
       "valueNutri": {
-        "valor_energetico": ["195.00 kcal", "10 %"],
-        "carboidratos": ["25.00 g", "9 %"],
-        "proteinas": ["6.10 g", "9 %"],
-        "gorduras_totais": ["7.90 g", "15 %"],
-        "gorduras_saturada": ["1.00 g", "5 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["4.60 g", "19 %"],
-        "sodio": ["182.00 mg", "8 %"]
+        "valor_energetico": [
+          "195.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "25.00 g",
+          "9 %"
+        ],
+        "proteinas": [
+          "6.10 g",
+          "9 %"
+        ],
+        "gorduras_totais": [
+          "7.90 g",
+          "15 %"
+        ],
+        "gorduras_saturada": [
+          "1.00 g",
+          "5 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "4.60 g",
+          "19 %"
+        ],
+        "sodio": [
+          "182.00 mg",
+          "8 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -930,18 +2028,47 @@
       "title": "Ravioli integral de ricota e espinafre",
       "weight": "160g",
       "price": "R$ 13,90",
-      "tags": ["contém glúten", "contém lactose", "contém ovos", "vegetariano"],
+      "tags": [
+        "contém glúten",
+        "contém lactose",
+        "contém ovos",
+        "vegetariano"
+      ],
       "description": "Um ravioli pode ser uma opção leve e natural - tá aqui a prova.\nA massa leva farinha integral com um toque de cúrcuma, que tem propriedades incríveis e um sabor intenso inconfundível, e o recheio também segue a linha saudável com maestria.\nEssa combinação de ricota com espinafre, que já é um clássico, fica ainda mais gostosa com o molho certo, ou até com um toque de manteiga e ervas frescas pra incrementar. Que tal experimentar?",
       "ingredient": "ricota, farinha de trigo, farinha de trigo integral, ovo em pó, cúrcuma, espinafre congelado, sal e alho.",
       "valueNutri": {
-        "valor_energetico": ["428.00 kcal", "22 %"],
-        "carboidratos": ["65.00 g", "22 %"],
-        "proteinas": ["21.00 g", "28 %"],
-        "gorduras_totais": ["9.10 g", "17 %"],
-        "gorduras_saturada": ["5.40 g", "25 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["4.30 g", "18 %"],
-        "sodio": ["653.00 mg", "28 %"]
+        "valor_energetico": [
+          "428.00 kcal",
+          "22 %"
+        ],
+        "carboidratos": [
+          "65.00 g",
+          "22 %"
+        ],
+        "proteinas": [
+          "21.00 g",
+          "28 %"
+        ],
+        "gorduras_totais": [
+          "9.10 g",
+          "17 %"
+        ],
+        "gorduras_saturada": [
+          "5.40 g",
+          "25 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "4.30 g",
+          "18 %"
+        ],
+        "sodio": [
+          "653.00 mg",
+          "28 %"
+        ]
       },
       "category": "vegetarianos"
     },
@@ -955,14 +2082,38 @@
       "description": "Essa é a nossa sugestão pra quem procura uma opção de peixe mais suave e com menor teor de gordura.\nCom um toque do limão siciliano, ele é ideal para aquelas refeições mais leves, mas com um sabor especial.",
       "ingredient": "filé de saint peter, limão siciliano, azeite extra virgem, sal rosa.",
       "valueNutri": {
-        "valor_energetico": ["172.00 kcal", "9 %"],
-        "carboidratos": ["0.20 g", "1 %"],
-        "proteinas": ["31.00 g", "42 %"],
-        "gorduras_totais": ["5.00 g", "10 %"],
-        "gorduras_saturada": ["1.30 g", "6 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["0.00 g", "0 %"],
-        "sodio": ["262.00 mg", "11 %"]
+        "valor_energetico": [
+          "172.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "0.20 g",
+          "1 %"
+        ],
+        "proteinas": [
+          "31.00 g",
+          "42 %"
+        ],
+        "gorduras_totais": [
+          "5.00 g",
+          "10 %"
+        ],
+        "gorduras_saturada": [
+          "1.30 g",
+          "6 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "0.00 g",
+          "0 %"
+        ],
+        "sodio": [
+          "262.00 mg",
+          "11 %"
+        ]
       },
       "category": "peixes e frutos do mar"
     },
@@ -972,18 +2123,44 @@
       "title": "Avelã com chocolate 70%",
       "weight": "35g",
       "price": "R$ 8,90",
-      "tags": ["contém nuts"],
+      "tags": [
+        "contém nuts"
+      ],
       "description": "Nossa versão de um clássico: avelãs selecionadas com o maior cuidado e envolvidas por chocolate 70% cacau orgânico.\nNosso novo snack é perfeito para a hora que a fome bater ou para matar aquela vontade de comer doce.",
       "ingredient": "Avelã, açúcar demerara, chocolate orgânico 70% (cacau orgânico, açúcar orgânico, emulsificante lecitina de girassol), óleo de coco e cacau em pó.",
       "valueNutri": {
-        "valor_energetico": ["198.00 kcal", "10 %"],
-        "carboidratos": ["17.40 g", "6 %"],
-        "proteinas": ["3.20 g", "5 %"],
-        "gorduras_totais": ["12.00 g", "22 %"],
-        "gorduras_saturada": ["3.20 g", "15 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.80 g", "12 %"],
-        "sodio": ["0.00 mg", "0 %"]
+        "valor_energetico": [
+          "198.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "17.40 g",
+          "6 %"
+        ],
+        "proteinas": [
+          "3.20 g",
+          "5 %"
+        ],
+        "gorduras_totais": [
+          "12.00 g",
+          "22 %"
+        ],
+        "gorduras_saturada": [
+          "3.20 g",
+          "15 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.80 g",
+          "12 %"
+        ],
+        "sodio": [
+          "0.00 mg",
+          "0 %"
+        ]
       },
       "category": "snacks"
     },
@@ -993,18 +2170,45 @@
       "title": "Bagel - congelado",
       "weight": "90g",
       "price": "R$ 6,50",
-      "tags": ["contém glúten", "contém lactose"],
+      "tags": [
+        "contém glúten",
+        "contém lactose"
+      ],
       "description": "A massa do nosso bagel é bem saborosa, vai bem com café quentinho ou suco gelado e fica ainda mais saborosa com manteiga, geleia ou até um recheio com mais sustância, como frios e uma salada de folhas.\nSe quiser o pão bem sequinho, a dica é aquecer no forno.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, água, fermento natural de trigo (levain), manteiga sem sal, açúcar, sal, fermento biológico seco, gergelim e regulador de acidez hidróxido de sodio.",
       "valueNutri": {
-        "valor_energetico": ["218.00 kcal", "11 %"],
-        "carboidratos": ["43.00 g", "15 %"],
-        "proteinas": ["5.90 g", "8 %"],
-        "gorduras_totais": ["2.30 g", "5 %"],
-        "gorduras_saturada": ["1.10 g", "6 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.60 g", "7 %"],
-        "sodio": ["337.00 mg", "15 %"]
+        "valor_energetico": [
+          "218.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "43.00 g",
+          "15 %"
+        ],
+        "proteinas": [
+          "5.90 g",
+          "8 %"
+        ],
+        "gorduras_totais": [
+          "2.30 g",
+          "5 %"
+        ],
+        "gorduras_saturada": [
+          "1.10 g",
+          "6 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.60 g",
+          "7 %"
+        ],
+        "sodio": [
+          "337.00 mg",
+          "15 %"
+        ]
       },
       "category": "pães"
     },
@@ -1014,18 +2218,44 @@
       "title": "Baguette Integral",
       "weight": "65g",
       "price": "R$ 5,90",
-      "tags": ["contém glúten"],
+      "tags": [
+        "contém glúten"
+      ],
       "description": "*Diferentemente das nossas outras porções, os pães não são embalados a vácuo*.\nNossa baguette tem a massa macia e fica com a casquinha crocante quando assada no forno.\nMuito versátil pra você escolher quando e com que vai comer. Pode passar manteiga, rechear com frios e até com salada. Só não pode passar vontade. Lembra bastante o pão francês, então com certeza vai fazer sucesso por aí.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, água, fermento natural de trigo (levain), farinha de trigo integral, sal e fermento biológico seco.",
       "valueNutri": {
-        "valor_energetico": ["141.00 kcal", "8 %"],
-        "carboidratos": ["30.00 g", "10 %"],
-        "proteinas": ["4.30 g", "6 %"],
-        "gorduras_totais": ["0.50 g", "1 %"],
-        "gorduras_saturada": ["0.00 g", "0 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.60 g", "7 %"],
-        "sodio": ["307.00 mg", "13 %"]
+        "valor_energetico": [
+          "141.00 kcal",
+          "8 %"
+        ],
+        "carboidratos": [
+          "30.00 g",
+          "10 %"
+        ],
+        "proteinas": [
+          "4.30 g",
+          "6 %"
+        ],
+        "gorduras_totais": [
+          "0.50 g",
+          "1 %"
+        ],
+        "gorduras_saturada": [
+          "0.00 g",
+          "0 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.60 g",
+          "7 %"
+        ],
+        "sodio": [
+          "307.00 mg",
+          "13 %"
+        ]
       },
       "category": "pães"
     },
@@ -1035,18 +2265,44 @@
       "title": "Mini Baguette Campagne Multigrãos - congelada",
       "weight": "80g",
       "price": "R$ 5,90",
-      "tags": ["contém glúten"],
+      "tags": [
+        "contém glúten"
+      ],
       "description": "*Diferentemente das nossas outras porções, os pães não são embalados a vácuo*.\nNossa baguette é na medida pra matar a fome e dar energia de uma forma super saudável.\nÉ rica em fibras por causa dos grãos (gergelim, linhaça, semente de girassol e aveia em flocos) e não fica devendo nada em sabor. A massa, macia, vai bem com vários tipos de recheio. O melhor é que dá pra fazer no forno, quando quiser um pão bem fiel ao de padaria, ou no micro-ondas, pra ficar pronto em um minuto.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, água, fermento natural de trigo (levain), farinha integral de centeio, mistura de grãos (semente de girassol, linhaça marrom, semente de gergelim e aveia em flocos), sal e fermento biológico seco.",
       "valueNutri": {
-        "valor_energetico": ["178.00 kcal", "9 %"],
-        "carboidratos": ["37.00 g", "13 %"],
-        "proteinas": ["5.20 g", "7 %"],
-        "gorduras_totais": ["0.90 g", "2 %"],
-        "gorduras_saturada": ["0.10 g", "1 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.00 g", "8 %"],
-        "sodio": ["380.00 mg", "16 %"]
+        "valor_energetico": [
+          "178.00 kcal",
+          "9 %"
+        ],
+        "carboidratos": [
+          "37.00 g",
+          "13 %"
+        ],
+        "proteinas": [
+          "5.20 g",
+          "7 %"
+        ],
+        "gorduras_totais": [
+          "0.90 g",
+          "2 %"
+        ],
+        "gorduras_saturada": [
+          "0.10 g",
+          "1 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.00 g",
+          "8 %"
+        ],
+        "sodio": [
+          "380.00 mg",
+          "16 %"
+        ]
       },
       "category": "pães"
     },
@@ -1056,18 +2312,45 @@
       "title": "Bolinhas de tapioca com chia e linhaça",
       "weight": "60g",
       "price": "R$ 6,50",
-      "tags": ["contém lactose", "vegetariano"],
+      "tags": [
+        "contém lactose",
+        "vegetariano"
+      ],
       "description": "Criamos um delicioso snack, que fica pronto em menos de 10 minutos.\nEsse é pra matar a sua fome em qualquer momento do dia! Do café da manhã, até aquele lanchinho noturno.\nNossas bolinhas de tapioca são feitas com queijo branco, que dá um sabor bem especial. Tem um sabor que lembra bastante um pãozinho de queijo. Adicionamos também sementes de chia e linhaça, que ajudam a dar uma consistência legal, além de serem saudáveis, ricas em fibras e vitaminas.",
       "ingredient": "goma de tapioca, queijo minas frescal, linhaça dourada, chia, sal, pimenta do reino.",
       "valueNutri": {
-        "valor_energetico": ["202.00 kcal", "11 %"],
-        "carboidratos": ["24.00 g", "8 %"],
-        "proteinas": ["7.50 g", "10 %"],
-        "gorduras_totais": ["8.50 g", "16 %"],
-        "gorduras_saturada": ["4.60 g", "21 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.60 g", "7 %"],
-        "sodio": ["252.00 mg", "11 %"]
+        "valor_energetico": [
+          "202.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "24.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "7.50 g",
+          "10 %"
+        ],
+        "gorduras_totais": [
+          "8.50 g",
+          "16 %"
+        ],
+        "gorduras_saturada": [
+          "4.60 g",
+          "21 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.60 g",
+          "7 %"
+        ],
+        "sodio": [
+          "252.00 mg",
+          "11 %"
+        ]
       },
       "category": "pães"
     },
@@ -1077,18 +2360,46 @@
       "title": "Brioche - congelado",
       "weight": "105g",
       "price": "R$ 5,90",
-      "tags": ["contém glúten", "contém lactose", "contém ovos"],
+      "tags": [
+        "contém glúten",
+        "contém lactose",
+        "contém ovos"
+      ],
       "description": "Tem aquele toque adocicado típico desse tipo de pão e vai deixar seu dia muito mais gostoso.\nFica uma delícia sozinho, com manteiga, com frios e claro, é a melhor escolha para um burger perfeito.\nPara ficar bem sequinho por fora e macio por dentro, aqueça no forno. Se gosta do pão mais molhadinho, vá de micro-ondas.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, água, açúcar, manteiga sem sal, gema, leite integral em pó, sal e fermento biológico seco.",
       "valueNutri": {
-        "valor_energetico": ["288.00 kcal", "15 %"],
-        "carboidratos": ["46.00 g", "16 %"],
-        "proteinas": ["7.80 g", "11 %"],
-        "gorduras_totais": ["8.00 g", "15 %"],
-        "gorduras_saturada": ["4.00 g", "19 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.90 g", "12 %"],
-        "sodio": ["571.00 mg", "24 %"]
+        "valor_energetico": [
+          "288.00 kcal",
+          "15 %"
+        ],
+        "carboidratos": [
+          "46.00 g",
+          "16 %"
+        ],
+        "proteinas": [
+          "7.80 g",
+          "11 %"
+        ],
+        "gorduras_totais": [
+          "8.00 g",
+          "15 %"
+        ],
+        "gorduras_saturada": [
+          "4.00 g",
+          "19 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.90 g",
+          "12 %"
+        ],
+        "sodio": [
+          "571.00 mg",
+          "24 %"
+        ]
       },
       "category": "pães"
     },
@@ -1102,14 +2413,38 @@
       "description": "Dos almoços com a família, no inverno, ao boteco no fim de uma noite fria, o caldo verde é um clássico.\nPra esses momentos ficarem mais leves, a linguiça pulou fora, mas prometemos que você não vai sentir falta dela.\nNo seu lugar, colocamos pedaços graúdos e macios de frango, que dão um toque mais salgadinho e até um pouco defumado à receita. Outro ingrediente que brilha é a couve: parece tão fresca que você nem se lembra que ela esteve congelada. O resultado é uma mistura de tradição com algo de moderno, e isso vale até mesmo para o preparo - mesmo sendo comida de verdade, é prática, justamente pra combinar mais com o seu tempo.",
       "ingredient": "batata inglesa, peito de frango sem antibiótico, couve manteiga, cebola orgânica, azeite extra virgem, sal, páprica doce, cebola em pó, páprica defumada, pimenta do reino, alho em pó.",
       "valueNutri": {
-        "valor_energetico": ["240.00 kcal", "12 %"],
-        "carboidratos": ["22.00 g", "8 %"],
-        "proteinas": ["25.00 g", "34 %"],
-        "gorduras_totais": ["5.80 g", "11 %"],
-        "gorduras_saturada": ["1.60 g", "8 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.30 g", "10 %"],
-        "sodio": ["945.00 mg", "40 %"]
+        "valor_energetico": [
+          "240.00 kcal",
+          "12 %"
+        ],
+        "carboidratos": [
+          "22.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "25.00 g",
+          "34 %"
+        ],
+        "gorduras_totais": [
+          "5.80 g",
+          "11 %"
+        ],
+        "gorduras_saturada": [
+          "1.60 g",
+          "8 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.30 g",
+          "10 %"
+        ],
+        "sodio": [
+          "945.00 mg",
+          "40 %"
+        ]
       },
       "category": "sopas e cremes"
     },
@@ -1119,18 +2454,44 @@
       "title": "Ciabatta de Azeitona Verde - congelada",
       "weight": "85g",
       "price": "R$ 5,90",
-      "tags": ["contém glúten"],
+      "tags": [
+        "contém glúten"
+      ],
       "description": "*Diferentemente das nossas outras porções, os pães não são embalados a vácuo*.\nA azeitona marca presença, mas de um jeito bem delicado.\nA ciabatta é um pão rústico consumido de vários jeitos na Itália, então aproveite essa versatilidade, pois fica uma delícia em sanduíches, fatiado e servido com patê e também como acompanhamento pra saladas, sopas e hambúrgueres. A fermentação natural dá um toque todo especial no sabor e deixa a casquinha ainda mais crocante se o pão for assado no forno. Aposte no micro-ondas quando quiser o pão mais úmido por dentro e por fora.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, água, fermento natural de trigo (levain), azeitonas verdes, azeite de oliva extra virgem, sal e fermento biológico seco.",
       "valueNutri": {
-        "valor_energetico": ["190.00 kcal", "10 %"],
-        "carboidratos": ["36.00 g", "12 %"],
-        "proteinas": ["4.90 g", "7 %"],
-        "gorduras_totais": ["2.90 g", "6 %"],
-        "gorduras_saturada": ["0.40 g", "2 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.50 g", "6 %"],
-        "sodio": ["407.00 mg", "17 %"]
+        "valor_energetico": [
+          "190.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "36.00 g",
+          "12 %"
+        ],
+        "proteinas": [
+          "4.90 g",
+          "7 %"
+        ],
+        "gorduras_totais": [
+          "2.90 g",
+          "6 %"
+        ],
+        "gorduras_saturada": [
+          "0.40 g",
+          "2 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.50 g",
+          "6 %"
+        ],
+        "sodio": [
+          "407.00 mg",
+          "17 %"
+        ]
       },
       "category": "pães"
     },
@@ -1140,18 +2501,45 @@
       "title": "Creme de abóbora com gengibre",
       "weight": "350g",
       "price": "R$ 14,50",
-      "tags": ["vegetariano", "só vegetais"],
+      "tags": [
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "Este creme de abóbora é muito cremoso e saboroso, para aquecer até os dias mais frios.\nA abóbora cozida tem muito betacaroteno, traz mais vida porque é um composto protetor.\nPra esquentar ainda mais, o gengibre entra e traz um sabor super especial e picante, mas bem de leve. Esta sopa deliciosa é ótima para um jantar levinho, ou como entrada, substituindo a salada no inverno.",
       "ingredient": "abóbora japonesa orgânica, abobrinha orgânica, cebola orgânica, alho-poró orgânico, azeite extra virgem, sal, gengibre em pó.",
       "valueNutri": {
-        "valor_energetico": ["133.00 kcal", "7 %"],
-        "carboidratos": ["20.00 g", "7 %"],
-        "proteinas": ["4.00 g", "6 %"],
-        "gorduras_totais": ["3.90 g", "8 %"],
-        "gorduras_saturada": ["0.80 g", "4 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["5.20 g", "21 %"],
-        "sodio": ["437.00 mg", "19 %"]
+        "valor_energetico": [
+          "133.00 kcal",
+          "7 %"
+        ],
+        "carboidratos": [
+          "20.00 g",
+          "7 %"
+        ],
+        "proteinas": [
+          "4.00 g",
+          "6 %"
+        ],
+        "gorduras_totais": [
+          "3.90 g",
+          "8 %"
+        ],
+        "gorduras_saturada": [
+          "0.80 g",
+          "4 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "5.20 g",
+          "21 %"
+        ],
+        "sodio": [
+          "437.00 mg",
+          "19 %"
+        ]
       },
       "category": "sopas e cremes"
     },
@@ -1161,18 +2549,45 @@
       "title": "Creme de couve-flor com frango",
       "weight": "350g",
       "price": "R$ 17,50",
-      "tags": ["contém lactose", "contém nuts"],
+      "tags": [
+        "contém lactose",
+        "contém nuts"
+      ],
       "description": "O nome creme não é à toa: esse prato tem mesmo a consistência bem cremosa e encorpada.\nSeu aspecto aveludado, junto com a cor clara, dão pra ele uma sensação de cobertor de lã, especialmente quando está quentinho.\nMas nem só de suavidade vive um creme. Primeiro porque ele é uma \"sopa de mastigar\" - a porção de frango é bem generosa! Depois porque o sabor é marcante (o alho, por exemplo, não passa despercebido). E o tempero, tão delicioso e equilibrado, fica na boca, pedindo mais quando acaba.",
       "ingredient": "couve-flor, peito de frango sem antibiótico, cebola orgânica, alho-poró orgânico, queijo parmesão, castanha de caju, alho, vinagre de maçã, azeite extra virgem, sal, salsinha orgânica, páprica doce, pimenta-do-reino.",
       "valueNutri": {
-        "valor_energetico": ["275.00 kcal", "14 %"],
-        "carboidratos": ["14.00 g", "5 %"],
-        "proteinas": ["28.00 g", "38 %"],
-        "gorduras_totais": ["12.00 g", "22 %"],
-        "gorduras_saturada": ["3.70 g", "17 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["5.30 g", "22 %"],
-        "sodio": ["690.00 mg", "29 %"]
+        "valor_energetico": [
+          "275.00 kcal",
+          "14 %"
+        ],
+        "carboidratos": [
+          "14.00 g",
+          "5 %"
+        ],
+        "proteinas": [
+          "28.00 g",
+          "38 %"
+        ],
+        "gorduras_totais": [
+          "12.00 g",
+          "22 %"
+        ],
+        "gorduras_saturada": [
+          "3.70 g",
+          "17 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "5.30 g",
+          "22 %"
+        ],
+        "sodio": [
+          "690.00 mg",
+          "29 %"
+        ]
       },
       "category": "sopas e cremes"
     },
@@ -1182,18 +2597,45 @@
       "title": "Creme de Mandioquinha",
       "weight": "350g",
       "price": "R$ 14,90",
-      "tags": ["vegetariano", "só vegetais"],
+      "tags": [
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "Mais um sabor delicioso de sopa para te aquecer nos dias mais frios.\nO creme de mandioquinha é um sucesso! Perfeito para servir de entrada ou quem sabe para um jantar mais levinho.\nÉ feito com essa raiz amarelinha, que também recebe o apelido de batata baroa ou cenourinha amarela. A sopa de mandioquinha fica super saborosa e cremosa, pois a própria raiz cozida já traz cremosidade para o prato. Nossos chefs utilizam temperos naturais como sal rosa, cebolinha e azeite, bem simples e muito delicioso.",
       "ingredient": "mandioquinha orgânica, abobrinha orgânica, cebola orgânica, azeite extra virgem, sal, alho-poró orgânico, cebolinha orgânica.",
       "valueNutri": {
-        "valor_energetico": ["202.00 kcal", "11 %"],
-        "carboidratos": ["42.00 g", "14 %"],
-        "proteinas": ["2.10 g", "3 %"],
-        "gorduras_totais": ["3.00 g", "6 %"],
-        "gorduras_saturada": ["0.50 g", "3 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["4.10 g", "17 %"],
-        "sodio": ["490.00 mg", "21 %"]
+        "valor_energetico": [
+          "202.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "42.00 g",
+          "14 %"
+        ],
+        "proteinas": [
+          "2.10 g",
+          "3 %"
+        ],
+        "gorduras_totais": [
+          "3.00 g",
+          "6 %"
+        ],
+        "gorduras_saturada": [
+          "0.50 g",
+          "3 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "4.10 g",
+          "17 %"
+        ],
+        "sodio": [
+          "490.00 mg",
+          "21 %"
+        ]
       },
       "category": "sopas e cremes"
     },
@@ -1203,18 +2645,46 @@
       "title": "Croissant - congelado",
       "weight": "70g",
       "price": "R$ 7,90",
-      "tags": ["contém glúten", "contém lactose", "contém ovos"],
+      "tags": [
+        "contém glúten",
+        "contém lactose",
+        "contém ovos"
+      ],
       "description": "*Diferentemente das nossas outras porções, os pães não são embalados a vácuo*.\nTão perfeito que você vai incluir no dia a dia.\nMacio na medida, e uma delícia com diferentes recheios, como manteiga, creme de avelã ou nossas pastas, por exemplo. E não tem erro: ainda combina com café, chá, suco... Um pão leve, crocante e bem fiel ao que você tem na memória. Se quiser sentir bem o folhado, é só assar no forno, pois no micro-ondas fica mais molhadinho.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, manteiga sem sal, água, leite integral, açúcar, sal, fermento biológico seco e ovo integral pasteurizado.",
       "valueNutri": {
-        "valor_energetico": ["248.00 kcal", "13 %"],
-        "carboidratos": ["27.00 g", "9 %"],
-        "proteinas": ["3.60 g", "5 %"],
-        "gorduras_totais": ["14.00 g", "26 %"],
-        "gorduras_saturada": ["8.30 g", "38 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.70 g", "7 %"],
-        "sodio": ["255.00 mg", "11 %"]
+        "valor_energetico": [
+          "248.00 kcal",
+          "13 %"
+        ],
+        "carboidratos": [
+          "27.00 g",
+          "9 %"
+        ],
+        "proteinas": [
+          "3.60 g",
+          "5 %"
+        ],
+        "gorduras_totais": [
+          "14.00 g",
+          "26 %"
+        ],
+        "gorduras_saturada": [
+          "8.30 g",
+          "38 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.70 g",
+          "7 %"
+        ],
+        "sodio": [
+          "255.00 mg",
+          "11 %"
+        ]
       },
       "category": "pães"
     },
@@ -1228,14 +2698,38 @@
       "description": "Produzida artesanalmente e com ingredientes selecionados, livres de conservantes, corantes ou aromatizantes, nossa granola é composta de castanhas, amêndoas, frutas desidratadas e lascas de coco que, juntas, ajudam a controlar o diabetes e o funcionamento intestinal.\nÉ mais energia para o corpo com saúde e um sabor que fica ainda melhor quando misturado com frutas e iogurtes.",
       "ingredient": "Aveia em flocos grossos, aveia em flocos finos, flocos de milho, melado de cana, semente de girassol, mel, óleo de girassol, castanha do Brasil, amêndoa, coco seco desidratado, damasco desidratado, uva passa preta, cranberry desidratado, gergelim tostado, canela em pó, extrato natural de baunilha, sal rosa do Himalaia e açúcar mascavo.",
       "valueNutri": {
-        "valor_energetico": ["407.50 kcal", "21 %"],
-        "carboidratos": ["66.25 g", "23 %"],
-        "proteinas": ["8.50 g", "12 %"],
-        "gorduras_totais": ["11.25 g", "21 %"],
-        "gorduras_saturada": ["0.75 g", "4 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["7.00 g", "28 %"],
-        "sodio": ["9.50 mg", "1 %"]
+        "valor_energetico": [
+          "407.50 kcal",
+          "21 %"
+        ],
+        "carboidratos": [
+          "66.25 g",
+          "23 %"
+        ],
+        "proteinas": [
+          "8.50 g",
+          "12 %"
+        ],
+        "gorduras_totais": [
+          "11.25 g",
+          "21 %"
+        ],
+        "gorduras_saturada": [
+          "0.75 g",
+          "4 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "7.00 g",
+          "28 %"
+        ],
+        "sodio": [
+          "9.50 mg",
+          "1 %"
+        ]
       },
       "category": "snacks"
     },
@@ -1245,18 +2739,45 @@
       "title": "Mini Croissant - 8 unidades",
       "weight": "200g",
       "price": "R$ 31,50",
-      "tags": ["contém glúten", "contém lactose"],
+      "tags": [
+        "contém glúten",
+        "contém lactose"
+      ],
       "description": "Delicioso pra qualquer dia e perfeito pra combinar com seu recheio favorito, como manteiga, creme de avelã, frios ou requeijão.\nEsse campeão da Liv Up é perfeito para preparar seu café da manhã ou da tarde, compartilhando sabor e momentos com quem mais estiver junto.\nNesta versão, o mini croissant vem em embalagem com 8 unidades (25g cada).",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, manteiga sem sal, água, leite integral, açúcar refinado, sal, fermento biológico seco e ovo pasteurizado.",
       "valueNutri": {
-        "valor_energetico": ["142.00 kcal", "8 %"],
-        "carboidratos": ["15.00 g", "5 %"],
-        "proteinas": ["2.10 g", "3 %"],
-        "gorduras_totais": ["8.00 g", "15 %"],
-        "gorduras_saturada": ["4.70 g", "22 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.00 g", "4 %"],
-        "sodio": ["146.00 mg", "7 %"]
+        "valor_energetico": [
+          "142.00 kcal",
+          "8 %"
+        ],
+        "carboidratos": [
+          "15.00 g",
+          "5 %"
+        ],
+        "proteinas": [
+          "2.10 g",
+          "3 %"
+        ],
+        "gorduras_totais": [
+          "8.00 g",
+          "15 %"
+        ],
+        "gorduras_saturada": [
+          "4.70 g",
+          "22 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.00 g",
+          "4 %"
+        ],
+        "sodio": [
+          "146.00 mg",
+          "7 %"
+        ]
       },
       "category": "pães"
     },
@@ -1266,18 +2787,46 @@
       "title": "Mini pão australiano",
       "weight": "300g",
       "price": "R$ 19,50",
-      "tags": ["contém glúten", "contém lactose", "vegetariano"],
+      "tags": [
+        "contém glúten",
+        "contém lactose",
+        "vegetariano"
+      ],
       "description": "Um pão macio, saboroso e molhadinho que vai combinar perfeitamente com sua manteiga, queijo ou frios.\nEste campeão de preferência da Liv Up, em versão pra compartilhar, vem protegido em embalagem convencional, conservando o sabor desse pão que tem um sabor adocicado pelo mel que leva na receita.\nDelicioso para qualquer hora do dia ou da noite. Nesta versão, o mini pão australiano vem em embalagem com 6 unidades.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, água, farinha de trigo integral, mel, manteiga sem sal, açúcar mascavo, açúcar, cacau em pó, sal, fubá e fermento biológico seco.",
       "valueNutri": {
-        "valor_energetico": ["136.00 kcal", "7 %"],
-        "carboidratos": ["27.00 g", "9 %"],
-        "proteinas": ["3.10 g", "5 %"],
-        "gorduras_totais": ["1.90 g", "4 %"],
-        "gorduras_saturada": ["1.10 g", "6 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.30 g", "6 %"],
-        "sodio": ["229.00 mg", "10 %"]
+        "valor_energetico": [
+          "136.00 kcal",
+          "7 %"
+        ],
+        "carboidratos": [
+          "27.00 g",
+          "9 %"
+        ],
+        "proteinas": [
+          "3.10 g",
+          "5 %"
+        ],
+        "gorduras_totais": [
+          "1.90 g",
+          "4 %"
+        ],
+        "gorduras_saturada": [
+          "1.10 g",
+          "6 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.30 g",
+          "6 %"
+        ],
+        "sodio": [
+          "229.00 mg",
+          "10 %"
+        ]
       },
       "category": "pães"
     },
@@ -1287,18 +2836,45 @@
       "title": "Mini pão australiano - congelado",
       "weight": "100g",
       "price": "R$ 6,90",
-      "tags": ["contém glúten", "contém lactose"],
+      "tags": [
+        "contém glúten",
+        "contém lactose"
+      ],
       "description": "*Diferentemente das nossas outras porções, os pães não são embalados a vácuo*.\nSuper macio dá pra comer sem nada porque é saboroso e molhadinho, mas se quiser dar um up, manteiga, queijo fresco ou hambúrguer são ótimas opções pra acompanhar esse pão de farinha integral, que também leva mel na receita, por isso tem um sabor levemente adocicado.\nNo micro-ondas fica mais úmido e, no forno, a casquinha fica mais firme.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, água, farinha de trigo integral, mel, manteiga sem sal, açúcar mascavo, açúcar, cacau em pó, sal, fubá e fermento biológico seco.",
       "valueNutri": {
-        "valor_energetico": ["272.00 kcal", "14 %"],
-        "carboidratos": ["53.00 g", "18 %"],
-        "proteinas": ["6.20 g", "9 %"],
-        "gorduras_totais": ["3.80 g", "7 %"],
-        "gorduras_saturada": ["2.20 g", "11 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.60 g", "11 %"],
-        "sodio": ["458.00 mg", "20 %"]
+        "valor_energetico": [
+          "272.00 kcal",
+          "14 %"
+        ],
+        "carboidratos": [
+          "53.00 g",
+          "18 %"
+        ],
+        "proteinas": [
+          "6.20 g",
+          "9 %"
+        ],
+        "gorduras_totais": [
+          "3.80 g",
+          "7 %"
+        ],
+        "gorduras_saturada": [
+          "2.20 g",
+          "11 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.60 g",
+          "11 %"
+        ],
+        "sodio": [
+          "458.00 mg",
+          "20 %"
+        ]
       },
       "category": "pães"
     },
@@ -1308,18 +2884,45 @@
       "title": "Noz Pecã com Chocolate 70% e Coco",
       "weight": "35g",
       "price": "R$ 8,90",
-      "tags": ["contém nuts", "vegetariano"],
+      "tags": [
+        "contém nuts",
+        "vegetariano"
+      ],
       "description": "Mais um snack para o nosso time queridinho: noz pecã com chocolate 70% cacau e coco queimado! Feito com chocolate orgânico, é perfeito para levar com você para lanchinho ou para uma sobremesa.\n.",
       "ingredient": "noz pecã, açúcar demerara, chocolate orgânico 70% (cacau orgânico, açúcar orgânico, emulsificante lecitina de girassol), óleo de coco e coco seco orgânico.",
       "valueNutri": {
-        "valor_energetico": ["184.00 kcal", "10 %"],
-        "carboidratos": ["14.00 g", "5 %"],
-        "proteinas": ["2.56 g", "4 %"],
-        "gorduras_totais": ["14.00 g", "26 %"],
-        "gorduras_saturada": ["4.90 g", "23 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.30 g", "10 %"],
-        "sodio": ["0.00 mg", "0 %"]
+        "valor_energetico": [
+          "184.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "14.00 g",
+          "5 %"
+        ],
+        "proteinas": [
+          "2.56 g",
+          "4 %"
+        ],
+        "gorduras_totais": [
+          "14.00 g",
+          "26 %"
+        ],
+        "gorduras_saturada": [
+          "4.90 g",
+          "23 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.30 g",
+          "10 %"
+        ],
+        "sodio": [
+          "0.00 mg",
+          "0 %"
+        ]
       },
       "category": "snacks"
     },
@@ -1329,18 +2932,46 @@
       "title": "Pain au chocolat - congelado",
       "weight": "65g",
       "price": "R$ 8,90",
-      "tags": ["contém glúten", "contém lactose", "contém ovos"],
+      "tags": [
+        "contém glúten",
+        "contém lactose",
+        "contém ovos"
+      ],
       "description": "Tão gostoso que vai te transportar para os cafés de Paris.\nO recheio fica cremoso, e a textura da massa você escolhe: para um pão molhadinho, aqueça no micro-ondas.\nSe quiser a massa folhada bem sequinha, escolha o forno.",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, manteiga sem sal, chocolate meio amargo, água, leite integral, açúcar, sal, fermento biológico seco e ovo integral pasteurizado.",
       "valueNutri": {
-        "valor_energetico": ["304.00 kcal", "16 %"],
-        "carboidratos": ["35.00 g", "12 %"],
-        "proteinas": ["4.40 g", "6 %"],
-        "gorduras_totais": ["16.00 g", "30 %"],
-        "gorduras_saturada": ["9.90 g", "45 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.60 g", "7 %"],
-        "sodio": ["262.00 mg", "11 %"]
+        "valor_energetico": [
+          "304.00 kcal",
+          "16 %"
+        ],
+        "carboidratos": [
+          "35.00 g",
+          "12 %"
+        ],
+        "proteinas": [
+          "4.40 g",
+          "6 %"
+        ],
+        "gorduras_totais": [
+          "16.00 g",
+          "30 %"
+        ],
+        "gorduras_saturada": [
+          "9.90 g",
+          "45 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.60 g",
+          "7 %"
+        ],
+        "sodio": [
+          "262.00 mg",
+          "11 %"
+        ]
       },
       "category": "pães"
     },
@@ -1354,14 +2985,38 @@
       "description": "O que esperar de um pão feito de fermento natural Levain alimentado com cerveja preta? Nada além de perfeição.\nEste é um pão artesanal e diferente, ideal pra transformar qualquer refeição em uma ocasião especial, do café da manhã ao jantar.",
       "ingredient": "farinha de trigo fortificada com ferro e ácido fólico, farinha de trigo integral, aveia em flocos, semente de girassol, linhaça, quinoa, chia, amaranto, sal, cacau, açúcar mascavo, fermento biológico fresco, melhorador de farinha ácido ascórbico e traviata..",
       "valueNutri": {
-        "valor_energetico": ["114.00 kcal", "6 %"],
-        "carboidratos": ["22.00 g", "8 %"],
-        "proteinas": ["3.90 g", "6 %"],
-        "gorduras_totais": ["1.30 g", "3 %"],
-        "gorduras_saturada": ["0.20 g", "1 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.90 g", "8 %"],
-        "sodio": ["216.00 mg", "9 %"]
+        "valor_energetico": [
+          "114.00 kcal",
+          "6 %"
+        ],
+        "carboidratos": [
+          "22.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "3.90 g",
+          "6 %"
+        ],
+        "gorduras_totais": [
+          "1.30 g",
+          "3 %"
+        ],
+        "gorduras_saturada": [
+          "0.20 g",
+          "1 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.90 g",
+          "8 %"
+        ],
+        "sodio": [
+          "216.00 mg",
+          "9 %"
+        ]
       },
       "category": "pães"
     },
@@ -1371,18 +3026,44 @@
       "title": "Pão Artesanal Multigrãos com Passas - fresco",
       "weight": "400g",
       "price": "R$ 22,99",
-      "tags": ["contém glúten"],
+      "tags": [
+        "contém glúten"
+      ],
       "description": "Quem é você na fila do pão? Este aqui, com certeza, é um dos primeiros.\nAté quem não é fã de uva passas vai se apaixonar pela combinação dos grãos integrais com o doce das uvas passas.\nUm pão artesanal e feito com fermento natural Levain, que deixa um sabor mais suave e gostoso, além de ser mais fácil de digerir.",
       "ingredient": "farinha de trigo fortificada com ferro e ácido fólico, levain, uva passa preta, granola, gergelim branco, aveia em flocos grossa, semente de girassol, linhaça, quinoa, chia, amaranto, sal, açúcar mascavo, traviata, fermento biológico fresco e melhorador de ácido ascórbico.",
       "valueNutri": {
-        "valor_energetico": ["119.00 kcal", "6 %"],
-        "carboidratos": ["23.00 g", "8 %"],
-        "proteinas": ["3.60 g", "5 %"],
-        "gorduras_totais": ["1.40 g", "3 %"],
-        "gorduras_saturada": ["0.20 g", "1 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.30 g", "6 %"],
-        "sodio": ["186.00 mg", "8 %"]
+        "valor_energetico": [
+          "119.00 kcal",
+          "6 %"
+        ],
+        "carboidratos": [
+          "23.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "3.60 g",
+          "5 %"
+        ],
+        "gorduras_totais": [
+          "1.40 g",
+          "3 %"
+        ],
+        "gorduras_saturada": [
+          "0.20 g",
+          "1 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.30 g",
+          "6 %"
+        ],
+        "sodio": [
+          "186.00 mg",
+          "8 %"
+        ]
       },
       "category": "pães"
     },
@@ -1392,18 +3073,46 @@
       "title": "Pão de queijo com chia e linhaça",
       "weight": "60g",
       "price": "R$ 6,90",
-      "tags": ["contém lactose", "contém ovos", "vegetariano"],
+      "tags": [
+        "contém lactose",
+        "contém ovos",
+        "vegetariano"
+      ],
       "description": "O clássico e saborosíssimo pão de queijo, receitinha minera que é motivo de paixão e orgulho nacional, ganha um toque super especial com as sementes de chia e linhaça orgânicas.\nSão sementinhas super nutritivas, que não alteram em nada o sabor delicioso do pão de queijo.\nPara a massa ficar perfeita, usamos uma mistura do polvilho doce e azedo, assim, cresce, fica crocante, mas macio por dentro. Além disso, é claro que usamos queijo de boa qualidade em dois tipos: o meia cura e o parmesão.",
       "ingredient": "polvilho azedo, polvilho doce, queijo meia cura, queijo parmesão, clara de ovo, gema de ovo, leite em pó desnatado, chia, linhaça dourada, sal.",
       "valueNutri": {
-        "valor_energetico": ["193.00 kcal", "10 %"],
-        "carboidratos": ["26.00 g", "9 %"],
-        "proteinas": ["7.80 g", "11 %"],
-        "gorduras_totais": ["6.20 g", "12 %"],
-        "gorduras_saturada": ["2.90 g", "14 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.00 g", "4 %"],
-        "sodio": ["216.00 mg", "9 %"]
+        "valor_energetico": [
+          "193.00 kcal",
+          "10 %"
+        ],
+        "carboidratos": [
+          "26.00 g",
+          "9 %"
+        ],
+        "proteinas": [
+          "7.80 g",
+          "11 %"
+        ],
+        "gorduras_totais": [
+          "6.20 g",
+          "12 %"
+        ],
+        "gorduras_saturada": [
+          "2.90 g",
+          "14 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.00 g",
+          "4 %"
+        ],
+        "sodio": [
+          "216.00 mg",
+          "9 %"
+        ]
       },
       "category": "pães"
     },
@@ -1413,18 +3122,45 @@
       "title": "Pão de frutas, grãos e castanhas Nutrella 500g",
       "weight": "500g",
       "price": "R$ 12,40",
-      "tags": ["contém glúten", "contém nuts"],
+      "tags": [
+        "contém glúten",
+        "contém nuts"
+      ],
       "description": "Naquela hora em que dá vontade de fugir do comum, esse pão Supreme Nutrella é uma ótima pedida.\nLeva uva passa, maçã, castanha de caju, castanha do Pará, sementes de girassol, linhaça dourada, canela em pó, extrato de acerola, farinha de trigo integral e farinha de trigo enriquecida com ferro e ácido fólico, tudo natural e orgânico, sem conservantes nem aditivos químicos.\nÉ uma combinação original, e você sente a diferença em cada mordida.",
       "ingredient": "Farinha de trigo enriquecida com ferro e ácido fólico, uva-passa, açúcar, glúten, semente de girassol, semente de linhaça dourada, flocos de aveia, maçã, castanha-de-caju, semente de linhaça, farinha de trigo fermentada desidratada, óleo vegetal de soja, vinagre, sal, canela em pó, castanha-do-pará e extrato de acerola.",
       "valueNutri": {
-        "valor_energetico": ["142.00 kcal", "8 %"],
-        "carboidratos": ["22.00 g", "8 %"],
-        "proteinas": ["5.90 g", "8 %"],
-        "gorduras_totais": ["3.40 g", "7 %"],
-        "gorduras_saturada": ["0.40 g", "2 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.80 g", "8 %"],
-        "sodio": ["135.00 mg", "6 %"]
+        "valor_energetico": [
+          "142.00 kcal",
+          "8 %"
+        ],
+        "carboidratos": [
+          "22.00 g",
+          "8 %"
+        ],
+        "proteinas": [
+          "5.90 g",
+          "8 %"
+        ],
+        "gorduras_totais": [
+          "3.40 g",
+          "7 %"
+        ],
+        "gorduras_saturada": [
+          "0.40 g",
+          "2 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.80 g",
+          "8 %"
+        ],
+        "sodio": [
+          "135.00 mg",
+          "6 %"
+        ]
       },
       "category": "pães"
     },
@@ -1434,18 +3170,45 @@
       "title": "Pão Grãos e Castanhas Nutrella 450g",
       "weight": "450g",
       "price": "R$ 12,40",
-      "tags": ["contém glúten", "contém nuts"],
+      "tags": [
+        "contém glúten",
+        "contém nuts"
+      ],
       "description": "É de dar água na boca, pra saborear até mesmo puro, sem manteiga nem nada: castanhas de caju e do Pará, sementes de girassol e linhaça, flocos de centeio, farinha de trigo integral e farinha enriquecida com ferro e ácido fólico, farelo de centeio e extrato de acerola.\nAssim é esse pão de grãos e castanhas da Nutrella, com novo sabor e os ingredientes saudáveis de sempre, gostoso a qualquer hora, sem aditivos químicos nem conservantes.",
       "ingredient": "Farinha de trigo integral, farinha de trigo enriquecida com ferro e ácido fólico, glúten, açúcar, flocos de centeio, farelo de trigo, semente de linhaça, castanha-do-pará, semente de girassol, óleo vegetal de soja, sal, vinagre, castanha-de-caju e extrato de acerola.",
       "valueNutri": {
-        "valor_energetico": ["107.00 kcal", "6 %"],
-        "carboidratos": ["19.00 g", "7 %"],
-        "proteinas": ["3.40 g", "5 %"],
-        "gorduras_totais": ["1.90 g", "4 %"],
-        "gorduras_saturada": ["0.30 g", "2 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.50 g", "6 %"],
-        "sodio": ["79.00 mg", "4 %"]
+        "valor_energetico": [
+          "107.00 kcal",
+          "6 %"
+        ],
+        "carboidratos": [
+          "19.00 g",
+          "7 %"
+        ],
+        "proteinas": [
+          "3.40 g",
+          "5 %"
+        ],
+        "gorduras_totais": [
+          "1.90 g",
+          "4 %"
+        ],
+        "gorduras_saturada": [
+          "0.30 g",
+          "2 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.50 g",
+          "6 %"
+        ],
+        "sodio": [
+          "79.00 mg",
+          "4 %"
+        ]
       },
       "category": "pães"
     },
@@ -1455,18 +3218,44 @@
       "title": "Pão italiano bola - congelado",
       "weight": "130g",
       "price": "R$ 6,90",
-      "tags": ["contém glúten"],
+      "tags": [
+        "contém glúten"
+      ],
       "description": "*Diferentemente das nossas outras porções, os pães não são embalados a vácuo*.\nPão italiano é um clássico, e com o nosso toque esse aqui ficou ainda melhor: é feito por meio de fermentação natural, que dá um toque suave de acidez e deixa uma casquinha bem crocante (se assado no forno).\nPerfeito com manteiga no café da manhã ou, pra um lanche reforçado, com queijo branco, tomate e orégano. Quem come carne, pode adicionar também uma fatia de presunto cru. E claro, ele é ótima companhia pra uma sopa!",
       "ingredient": "farinha de trigo enriquecida com ferro e ácido fólico, água, fermento natural de trigo (levain), sal e fermento biológico seco.",
       "valueNutri": {
-        "valor_energetico": ["325.00 kcal", "17 %"],
-        "carboidratos": ["70.00 g", "24 %"],
-        "proteinas": ["9.40 g", "13 %"],
-        "gorduras_totais": ["0.80 g", "2 %"],
-        "gorduras_saturada": ["0.20 g", "1 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.40 g", "10 %"],
-        "sodio": ["708.00 mg", "30 %"]
+        "valor_energetico": [
+          "325.00 kcal",
+          "17 %"
+        ],
+        "carboidratos": [
+          "70.00 g",
+          "24 %"
+        ],
+        "proteinas": [
+          "9.40 g",
+          "13 %"
+        ],
+        "gorduras_totais": [
+          "0.80 g",
+          "2 %"
+        ],
+        "gorduras_saturada": [
+          "0.20 g",
+          "1 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.40 g",
+          "10 %"
+        ],
+        "sodio": [
+          "708.00 mg",
+          "30 %"
+        ]
       },
       "category": "pães"
     },
@@ -1476,18 +3265,46 @@
       "title": "Pão low carb - congelado",
       "weight": "130g",
       "price": "R$ 11,90",
-      "tags": ["contém glúten", "contém nuts", "contém ovos"],
+      "tags": [
+        "contém glúten",
+        "contém nuts",
+        "contém ovos"
+      ],
       "description": "Vai bem no café da manhã, na hora do lanche e até as refeições principais - aí é só caprichar no recheio.\nÉ feito com farinhas de linhaça e de castanha de caju, mais saudáveis que a farinha branca, e pode ser aquecido tanto no forno - para ficar mais sequinho - quanto no micro-ondas.",
       "ingredient": "farinha de castanha de cajú, ovo pasteurizado, farinha de grão de bico, água, mistura de grãos (semente de linhaça, semente de girassol, gergelim e aveia em flocos), farinha de linhaça, fermento, óleo de girassol e sal.",
       "valueNutri": {
-        "valor_energetico": ["332.00 kcal", "17 %"],
-        "carboidratos": ["25.00 g", "9 %"],
-        "proteinas": ["23.00 g", "31 %"],
-        "gorduras_totais": ["15.00 g", "28 %"],
-        "gorduras_saturada": ["1.80 g", "9 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["5.50 g", "22 %"],
-        "sodio": ["715.00 mg", "30 %"]
+        "valor_energetico": [
+          "332.00 kcal",
+          "17 %"
+        ],
+        "carboidratos": [
+          "25.00 g",
+          "9 %"
+        ],
+        "proteinas": [
+          "23.00 g",
+          "31 %"
+        ],
+        "gorduras_totais": [
+          "15.00 g",
+          "28 %"
+        ],
+        "gorduras_saturada": [
+          "1.80 g",
+          "9 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "5.50 g",
+          "22 %"
+        ],
+        "sodio": [
+          "715.00 mg",
+          "30 %"
+        ]
       },
       "category": "pães"
     },
@@ -1497,18 +3314,47 @@
       "title": "Mix de Castanha de Caju e Amendoim com Lemon Pepper",
       "weight": "35g",
       "price": "R$ 5,90",
-      "tags": ["contém nuts", "sem açúcar", "vegetariano", "só vegetais"],
+      "tags": [
+        "contém nuts",
+        "sem açúcar",
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "Este mix com lemon pepper é um snack feito com amendoim e castanha de caju com o delicioso sabor do limão e da pimenta preta.\nNão tem nenhum aroma artificial ou algo do tipo, é totalmente natural.\nNosso temperinho sabor lemon pepper é feito com cúrcuma e óleo essencial de limão, que além de dar bastante sabor, tem propriedades incríveis para a saúde. É ideal para comer a tarde quando bate aquela fominha, ou então comer com os amigos vendo um filme ou assistindo o jogo. É sucesso na certa!",
       "ingredient": "castanha de cajú, amendoim, limão tahiti orgânico, lemon pepper, azeite extra virgem, óleo de coco, flor de sal.",
       "valueNutri": {
-        "valor_energetico": ["212.00 kcal", "11 %"],
-        "carboidratos": ["9.33 g", "4 %"],
-        "proteinas": ["3.26 g", "5 %"],
-        "gorduras_totais": ["7.00 g", "13 %"],
-        "gorduras_saturada": ["1.40 g", "7 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["1.60 g", "7 %"],
-        "sodio": ["177.00 mg", "8 %"]
+        "valor_energetico": [
+          "212.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "9.33 g",
+          "4 %"
+        ],
+        "proteinas": [
+          "3.26 g",
+          "5 %"
+        ],
+        "gorduras_totais": [
+          "7.00 g",
+          "13 %"
+        ],
+        "gorduras_saturada": [
+          "1.40 g",
+          "7 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "1.60 g",
+          "7 %"
+        ],
+        "sodio": [
+          "177.00 mg",
+          "8 %"
+        ]
       },
       "category": "snacks"
     },
@@ -1518,18 +3364,46 @@
       "title": "Castanhas caramelizadas com gengibre",
       "weight": "35g",
       "price": "R$ 5,90",
-      "tags": ["contém nuts", "sem açúcar", "vegetariano"],
+      "tags": [
+        "contém nuts",
+        "sem açúcar",
+        "vegetariano"
+      ],
       "description": "Este é um mix de castanhas e fruta seca com o toque super especial de gengibre.\nTem amêndoas e macadâmias, duas maravilhas saborosas e ainda mais nutritivas.\nTambém tem a diva brasileira, a castanha do Pará e semente de chia. A fruta que entrou para compor este mix de nuts e frutas é o mirtilo, mais conhecido como blueberry. É outro alimento incrível, que além de ter um sabor muito bom, bem docinho, é cheio de propriedades super legais. O gengibre entra em cena para trazer um toque quente, levemente picante e único que só ele tem. Para adoçar, usamos o açúcar demerara, que é uma versão menos processada do açúcar de cana, e mel. Ambos orgânicos!",
       "ingredient": "castanha do pará , macadâmia, amêndoa, blueberry desidratado, gengibre orgânico, açúcar demerara, mel orgânico, chia.",
       "valueNutri": {
-        "valor_energetico": ["212.00 kcal", "11 %"],
-        "carboidratos": ["16.30 g", "6 %"],
-        "proteinas": ["4.00 g", "6 %"],
-        "gorduras_totais": ["15.10 g", "28 %"],
-        "gorduras_saturada": ["1.40 g", "7 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["3.26 g", "14 %"],
-        "sodio": ["177.00 mg", "8 %"]
+        "valor_energetico": [
+          "212.00 kcal",
+          "11 %"
+        ],
+        "carboidratos": [
+          "16.30 g",
+          "6 %"
+        ],
+        "proteinas": [
+          "4.00 g",
+          "6 %"
+        ],
+        "gorduras_totais": [
+          "15.10 g",
+          "28 %"
+        ],
+        "gorduras_saturada": [
+          "1.40 g",
+          "7 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "3.26 g",
+          "14 %"
+        ],
+        "sodio": [
+          "177.00 mg",
+          "8 %"
+        ]
       },
       "category": "snacks"
     },
@@ -1539,18 +3413,46 @@
       "title": "Castanha do Pará com chocolate 70%",
       "weight": "35g",
       "price": "R$ 8,90",
-      "tags": ["contém nuts", "vegetariano", "só vegetais"],
+      "tags": [
+        "contém nuts",
+        "vegetariano",
+        "só vegetais"
+      ],
       "description": "Este snack doce é uma delícia feita com a castanha do Pará, uma divindade brasileira, já que é uma castanha de sabor e propriedades nutricionais únicas.\nPara deixá-las ainda mais gostosas cobrimos com chocolate 70% cacau orgânico.\nPara adoçar, foi usado o açúcar demerara, que é uma versão menos processada do açúcar de cana. Cacau em pó e óleo de coco também entram na mistura. É um lanchinho gostoso e super natural, ótimo para matar a fome ou aquela vontade de comer um docinho.",
       "ingredient": "Castanha-do-pará, açúcar demerara, chocolate orgânico 70% (cacau orgânico, açúcar orgânico, emulsificante lecitina de girassol), óleo de coco e cacau em pó.",
       "valueNutri": {
-        "valor_energetico": ["226.00 kcal", "12 %"],
-        "carboidratos": ["19.80 g", "7 %"],
-        "proteinas": ["3.50 g", "5 %"],
-        "gorduras_totais": ["15.00 g", "28 %"],
-        "gorduras_saturada": ["7.90 g", "36 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["2.80 g", "12 %"],
-        "sodio": ["0.00 mg", "0 %"]
+        "valor_energetico": [
+          "226.00 kcal",
+          "12 %"
+        ],
+        "carboidratos": [
+          "19.80 g",
+          "7 %"
+        ],
+        "proteinas": [
+          "3.50 g",
+          "5 %"
+        ],
+        "gorduras_totais": [
+          "15.00 g",
+          "28 %"
+        ],
+        "gorduras_saturada": [
+          "7.90 g",
+          "36 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "2.80 g",
+          "12 %"
+        ],
+        "sodio": [
+          "0.00 mg",
+          "0 %"
+        ]
       },
       "category": "snacks"
     },
@@ -1560,18 +3462,44 @@
       "title": "Sopa de lentilha com especiarias",
       "weight": "350g",
       "price": "R$ 14,50",
-      "tags": ["vegetariano"],
+      "tags": [
+        "vegetariano"
+      ],
       "description": "Assim que fica pronta, essa sopa exala um perfume que leva você direto pra Índia.\nPassada essa primeira impressão, o essencial aparece - você percebe o tomate, a cebola roxa e, claro, a lentilha, que é macia e carnuda.\nO toque final, bem discreto, fica por conta do mel, fechando com chave de ouro essa combinação de leveza, aconchego e trem para o sul asiático.",
       "ingredient": "tomate orgânico, lentilha, cebola roxa orgânica, azeite extra virgem, curry em pó, sal, alho, mel orgânico, vinagre de vinho tinto.",
       "valueNutri": {
-        "valor_energetico": ["366.00 kcal", "19 %"],
-        "carboidratos": ["50.00 g", "17 %"],
-        "proteinas": ["17.00 g", "23 %"],
-        "gorduras_totais": ["11.00 g", "20 %"],
-        "gorduras_saturada": ["1.70 g", "8 %"],
-        "gorduras_trans": ["0.00 g", "** %"],
-        "fibra_alimentar": ["14.00 g", "56 %"],
-        "sodio": ["374.00 mg", "16 %"]
+        "valor_energetico": [
+          "366.00 kcal",
+          "19 %"
+        ],
+        "carboidratos": [
+          "50.00 g",
+          "17 %"
+        ],
+        "proteinas": [
+          "17.00 g",
+          "23 %"
+        ],
+        "gorduras_totais": [
+          "11.00 g",
+          "20 %"
+        ],
+        "gorduras_saturada": [
+          "1.70 g",
+          "8 %"
+        ],
+        "gorduras_trans": [
+          "0.00 g",
+          "** %"
+        ],
+        "fibra_alimentar": [
+          "14.00 g",
+          "56 %"
+        ],
+        "sodio": [
+          "374.00 mg",
+          "16 %"
+        ]
       },
       "category": "sopas e cremes"
     }
